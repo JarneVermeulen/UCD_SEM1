@@ -114,24 +114,30 @@ Het jachtspel als oplossing voor de verminderde fysieke activiteit bij kinderen 
 Door eerst te onderzoeken of het probleem wel degelijk een probleem is, konden er diverse onderzoeksvragen opgesteld worden. Echter, een diepere analyse van mogelijke oorzaken en gevolgen van verminderde fysieke activiteit zou het begrip van het probleem verder kunnen verfijnen. Hoe we de controllers zullen laten communiceren met elkaar is ook nog niet uitgewerkt. Wel zijn via benchmarking onderzoek mogelijke methoden hiervoor gevonden. Voor de controller zijn er vaste afmetingen opgesteld, echter was dit enkel goed voor een aantal respondenten. We kunnen nog in vraag stellen of deze in orde zullen zijn voor de volledige doelgroep. Voor het comfort van de gebruiker zouden we nog een touw toevoegen aan het ontwerp dat rond de arm gebonden kan worden, zo kunnen de jongeren de controller loslaten tijdens het lopen. De meeste functies werden begrepen door de natuurlijke intuïtie van de gebruikers. Dit is belangrijk want één van de doelstellingen was eenvoudig gebruik, zodat ze er vooral plezier uit kunnen halen.  Bij de trillings knop is er wel voorkennis nodig, indien mogelijk dit eventueel anders vertonen. Een belangrijke vereiste dat in het achterhoofd moet gehouden worden is dat de product display zichtbaar / leesbaar moet zijn in alle omstandigheden (tijdens lopen). Daarom worden alle belangrijkste functies aan de voorkant getoond. Het concept viel duidelijk in de smaak bij de jongeren. Maar om dit concept voor een lange tijd interessant te houden, moet het idee wat uitbreiden. Eventueel door meerdere variaties van het spel te voorzien, dat de controller verschillende doeleinden heeft. Of door er een app aan te koppelen, zo kan er onder vrienden competitie ontstaan.  De app kan nog andere functies bieden, zoals het afgelegde parcours tonen of de batterijconditie van de controller. Op het einde moet er rekening gehouden worden of het product toegankelijk is voor diverse gemeenschappen en leeftijden. 
 
 ## Bronnen
-1. De Morgen. (2018, 18 november). Meer dan 90 procent van Vlaamse kinderen beweegt te weinig: de situatie is problematisch [Artikel] Geraadpleegd van 'https://www.demorgen.be/nieuws/meer-dan-90-procent-van-vlaamse-kinderen-beweegt-te-weinig-de-situatie-is-problematisch~b8328640/?referrer=https://www.google.com/' 
+1. De Morgen. (2018, 18 november). Meer dan 90 procent van Vlaamse kinderen beweegt te weinig: de situatie is problematisch [Artikel]
+   Geraadpleegd van
 
-2. Eos Wetenschap. (2020, 18 augustus). Kinderen en de natuur: een gezonde combinatie [Artikel] Geraadpleegd van  'https://www.eoswetenschap.eu/psyche-brein/kinderen-buiten'
+   'https://www.demorgen.be/nieuws/meer-dan-90-procent-van-vlaamse-kinderen-beweegt-te-weinig-de-situatie-is-problematisch~b8328640/?referrer=https://www.google.com/' 
+
+3. Eos Wetenschap. (2020, 18 augustus). Kinderen en de natuur: een gezonde combinatie [Artikel]
+   Geraadpleegd van
+
+   'https://www.eoswetenschap.eu/psyche-brein/kinderen-buiten'
 
 
 ## Bijlagen
 - Knowledge templates:
   
-'https://miro.com/app/board/uXjVNc1zdgc=/'
+  'https://miro.com/app/board/uXjVNc1zdgc=/'
 - Storyboard:
 
-'https://docs.google.com/document/d/1PAMnb7MO7Bppltpi9P80tcRVxcwcwrIgiHbt-Jk9FPo/edit'
+  'https://docs.google.com/document/d/1PAMnb7MO7Bppltpi9P80tcRVxcwcwrIgiHbt-Jk9FPo/edit'
 - Informed consent:
 
-'https://drive.google.com/file/d/1ecbCB3a_0XcPQUA73Tk1YouZ-0hiUUzG/view?usp=drive_link' 
+  'https://drive.google.com/file/d/1ecbCB3a_0XcPQUA73Tk1YouZ-0hiUUzG/view?usp=drive_link' 
 - Testing protocols en reports discovery fase https:
 
-'https://drive.google.com/drive/folders/1RhsCoIbYS_yZDI-j0_34pyAPooFT476-'
+  'https://drive.google.com/drive/folders/1RhsCoIbYS_yZDI-j0_34pyAPooFT476-'
 - Testing protocols en reports description fase:
 
-'https://drive.google.com/drive/folders/1D4ZB3Uvg7KZcPki2clt-H5F0CqyrTQFd?usp=drive_link' 
+  'https://drive.google.com/drive/folders/1D4ZB3Uvg7KZcPki2clt-H5F0CqyrTQFd?usp=drive_link' 
