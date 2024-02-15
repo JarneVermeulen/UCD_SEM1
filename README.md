@@ -10,6 +10,16 @@ G11: Jarne Jan Vermeulen; Aline Tijtgat
 Het probleem is dat kinderen tegenwoordig minder buiten spelen, wat negatieve gevolgen kan hebben voor hun fysieke gezondheid en welzijn. We hebben dit onderzocht door middel van User interviews en Benchmarking. Uit dit onderzoek blijkt dat ze te weinig bewegen. Ze zouden per dag één uur matig tot intensief moeten bewegen. Dit is voornamelijk te danken aan het vele schermgebruik. 
 
 Onze oplossing is een jachtspel dat de fysieke activiteit van kinderen bevordert. Aan de hand van een controller speurt de jager de vluchters op. De bedoeling is dat de vluchters voor een bepaalde tijd uit de handen blijven van de jagers. Als de jager de vluchters kan pakken binnen de tijd wint de jager, anders winnen de vluchters. Deze oplossing stimuleert buitenactiviteit doordat kinderen enthousiast worden om deel te nemen aan een avontuurlijk spel. Zo ontwikkelen de kinderen sociale vaardigheden en tegelijkertijd genieten ze van een actieve levensstijl. De controller zorgt er ook voor dat je niet continu moet kijken op een scherm.
+<table border="1">
+    <tr>
+        <td  colspan="2">Hero sketch/ render</td>
+</tr>
+    <tr>
+        <td><img src="afbeeldingen verslag/render controller bovenkant.png" width="100%"/></td>                                             
+        <td><img src="afbeeldingen verslag/render controller onderkant.png" width="100%"/></td>
+    </tr>
+</table>
+
 
 ## Introductie
 In een tijdperk waar schermtijd de norm lijkt te zijn geworden voor jongeren, doemt het probleem van verminderde lichaamsbeweging op als een schaduw over hun welzijn. Jongeren brengen steeds meer tijd door achter digitale schermen, wat resulteert in een afname van fysieke activiteit. Dit probleem heeft niet alleen gevolgen voor hun gezondheid, maar ook voor sociale interacties en het vermogen van buiten te genieten. 
@@ -110,10 +120,28 @@ Uit concept test 2 werd er veel informatie gehaald. Het concept viel in de smaak
 
 Controller 3 (rechts op de onderstaande figuur) was opvallend de favoriet van alle respondenten. De aan/uit-knop, de schermen voor tijd en afstand waren allemaal duidelijk en stonden op de juiste plaats. De trillingssensor was alleen duidelijk met wat uitleg. De functie van de lampjes voor de richting was duidelijk, maar enkele hadden de voorkeur om dit aan de voorkant te plaatsen. De lampen die aangegeven welke rol je speelt waren niet bij iedereen meteen duidelijk, dus in de plaats van J en V, eventueel Jager en Vluchter voluit schrijven. 
 Er werden ook nog enkele tips meegegeven door de jongeren om tot een beter concept/design te komen. De aan/uit-knop niet laten uitsteken, zodat wanneer je tegen ergens stoot die niet per ongeluk wordt uitgelegd. Het product zouden ze kopen, maar dit is natuurlijk afhankelijk van de prijs. En het eventueel overwegen om er een app aan te koppelen, voor gebruikersgemak en informatievoorziening. 
+<table border="1">
+    <tr>
+        <td  colspan="2">prototypes wave 2</td>
+</tr>
+    <tr>
+        <td><img src="afbeeldingen verslag/prototypes wave 2 onderkant.png" width="90%"/></td>                                             
+        <td><img src="afbeeldingen verslag/prototypes wave 2 bovenkant.png" width="100%"/></td>
+    </tr>
+</table>
 
 ### Conclusies & implicaties
 Het concept werd over het algemeen goed ontvangen, vooral als activiteit met vrienden. 
-Hieruit kon ook beslist worden dat de afmetingen en vorm van A als favoriet naar voren kwamen, maar met als toevoeging afgeronde hoeken en een diepe inkeping voor de vinger. De uiteindelijke afmetingen van de controller zijn te vinden op volgende figuur 
+Hieruit kon ook beslist worden dat de afmetingen en vorm van A als favoriet naar voren kwamen, maar met als toevoeging afgeronde hoeken en een diepe inkeping voor de vinger. De uiteindelijke afmetingen van de controller zijn te vinden op volgende figuur
+<table border="1">
+    <tr>
+        <td>afmetingen controller</td>
+</tr>
+    <tr>
+        <td><img src="afbeeldingen verslag/afmetingen controller.png" width="100%"/></td>                                             
+    </tr>
+</table>
+
 Vele functies werden positief beoordeeld, behalve de richtingslampjes beter aan de voorkant plaatsen van de controller en de trillingssensor die nog onduidelijk is, en dus enige uitleg vereist . Over het algemeen heeft de controller zijn vorm en functies gekregen en is het één mooi geheel geworden. 
 
 De protocols en reports van de definition fase zijn te vinden in de bijlage.
