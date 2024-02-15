@@ -92,7 +92,20 @@ De tweede test had als doel om het concept en de verschillende functies te bekij
 Er werd getest volgens kwalificatie, confrontatie, appreciatie, simulatie en reflectie. Bij de kwalificatie onderzochten we of de achtergrond van de respondent wel paste bij het project. Deel 2, de confrontatie, werd uitgevoerd in 2 fases. Fase 1 was voor een eerste reactie op het concept en fase 2 op de controller. In de simulatie fase werden er 3 scenario’s uitgevoerd, zo konden we ontdekken of alles wel duidelijk was. En als laatste volgde er een conclusie om de belangrijkste inzichten te overlopen.  
 
 ### Resultaten
-Bij concept test 1 konden we snel besluiten dat een cilindrische vorm geen goede keuze was. De andere 2 vormen waren de favorieten. Maar als we dan dieper ingegaan zijn op waarden, was A de favoriet. Deze controller heeft een dikte van 3 cm. Tijdens het onderzoek gaven de jongeren wel nog enkele tips om tot een beter ontwerp te komen. Afgeronde hoeken en de inkeping voor de vinger moet diep genoeg zijn. 
+Bij concept test 1 konden we snel besluiten dat een cilindrische vorm geen goede keuze was. De andere 2 vormen waren de favorieten. Maar als we dan dieper ingegaan zijn op waarden, was A de favoriet. Deze controller heeft een dikte van 3 cm. Tijdens het onderzoek gaven de jongeren wel nog enkele tips om tot een beter ontwerp te komen. Afgeronde hoeken en de inkeping voor de vinger moet diep genoeg zijn.
+<table border="1">
+    <tr>
+        <td>A</td>
+        <td>B</td>
+        <td>C</td>
+    </tr>
+    <tr>
+        <td><img src="afbeeldingen verslag/prototype A.png" width="100%"/></td>
+        <td><img src="afbeeldingen verslag/prototype B.png" width="100%"/></td>
+        <td><img src="afbeeldingen verslag/prototype C.png" width="100%"/></td>
+    </tr>
+</table>
+
 Uit concept test 2 werd er veel informatie gehaald. Het concept viel in de smaak, zeker als activiteiten voor met vrienden. Vooral voor het gevoel dat er iemand achter jou zit en de druk om weg te lopen.
 
 Controller 3 (rechts op de onderstaande figuur) was opvallend de favoriet van alle respondenten. De aan/uit-knop, de schermen voor tijd en afstand waren allemaal duidelijk en stonden op de juiste plaats. De trillingssensor was alleen duidelijk met wat uitleg. De functie van de lampjes voor de richting was duidelijk, maar enkele hadden de voorkeur om dit aan de voorkant te plaatsen. De lampen die aangegeven welke rol je speelt waren niet bij iedereen meteen duidelijk, dus in de plaats van J en V, eventueel Jager en Vluchter voluit schrijven. 
