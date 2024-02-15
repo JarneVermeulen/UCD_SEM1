@@ -64,7 +64,7 @@ Via dit artikel werden volgende onderzoeksvragen opgesteld:
 - Wat zijn de interesses van jongeren?
 - Wat doen jongeren nu van beweging?
 
-Om te onderzoeken hoe vaak jongeren bewegen en wat hun dagelijkse bezigheden zijn, werden gebruikersinterviews afgenomen. 
+Om te onderzoeken hoe vaak jongeren bewegen en wat hun dagelijkse bezigheden zijn, werden 2 gebruikersinterviews afgenomen. 
 Zo werd er via de interviews gevraagd wat de jongeren hun hobby’s zijn en hoe vaak ze die per week uitvoeren, welke sociale media ze gebruiken en welke interesses ze hebben op vlak van muziek, film en sport. Er werd gevraagd hoe vaak ze bewegen op school en tijdens de vakantie om zo het verschil tussen de twee te zien. Daarna werd er gevraagd of ze vaak games spelen op hun gsm, laptop, playstation en of ze hierbij alleen spelen of met vrienden. Dan werd er gevraagd hoe vaak ze per dag achter het scherm zitten. Hierbij zijn gsm, TV, laptop inbegrepen. Er werd ook gevraagd of de geïnterviewden al eens games voor buiten gespeeld hadden en wat hun ervaringen hierbij waren. Als laatste vraag werd gevraagd of ze zich liever binnen of buiten bevinden. 
 Na de interviews werd er onderzoek gedaan naar bestaande oplossingen via benchmarking. Via deze info kon er onderzocht worden welke technologieën de producten hiervoor gebruiken. Er werd ook onderzocht hoe de games gespeeld worden en hoe succesvol ze zijn. Er werden zeven producten onderzocht: geocaching, Pokémon GO, Ingress, Picoo, outdoor escape room, outdoor laser tag en GPS pong.
 
