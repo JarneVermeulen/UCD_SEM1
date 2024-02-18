@@ -89,6 +89,7 @@ Er werden ook een aantal design requirements opgesteld. Zo werden volgend requir
 - De rol van jager of vluchter moet aangegeven worden op de controller
 - Een scherm voorzien voor de tijd en afstand die om de 5 minuten getoond wordt
 - Een trilling knop waardoor de controller gaat trillen volgens een bepaalde frequentie die afhangt van hoe ver de andere speler is.
+
 De protocols en reports van de description fase zijn te vinden in de bijlage.
 
 
