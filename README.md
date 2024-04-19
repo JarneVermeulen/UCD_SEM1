@@ -161,6 +161,14 @@ Hoe we de controllers zullen laten communiceren met elkaar is ook nog niet uitge
 
 Het concept viel duidelijk in de smaak bij de jongeren. Maar om dit concept voor een lange tijd interessant te houden, moet het idee wat uitbreiden. Eventueel door meerdere variaties van het spel te voorzien, dat de controller verschillende doeleinden heeft. Of door er een app aan te koppelen, zo kan er onder vrienden competitie ontstaan.  De app kan nog andere functies bieden, zoals het afgelegde parcours tonen of de batterijconditie van de controller. Op het einde moet er rekening gehouden worden of het product toegankelijk is voor diverse gemeenschappen en leeftijden. 
 
+## Deelopdracht 3
+
+## Deelopdracht 4
+
+## Deelopdracht 5
+
+## Finaal prototype
+
 ## Bronnen
 1. De Morgen. (2018, 18 november). Meer dan 90 procent van Vlaamse kinderen beweegt te weinig: de situatie is problematisch [Artikel]
    Geraadpleegd van
