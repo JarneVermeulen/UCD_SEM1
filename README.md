@@ -254,18 +254,27 @@ De gebruikerstesten worden uitgevoerd met 4 respondenten tussen 10-16 jaar. Per 
 
 
 ## Bijlagen
-- Knowledge templates:
-  
-  'https://miro.com/app/board/uXjVNc1zdgc=/'
-- Storyboard:
 
-  'https://docs.google.com/document/d/1PAMnb7MO7Bppltpi9P80tcRVxcwcwrIgiHbt-Jk9FPo/edit'
-- Informed consent:
-
-  'https://drive.google.com/file/d/1ecbCB3a_0XcPQUA73Tk1YouZ-0hiUUzG/view?usp=drive_link' 
-- Testing protocols en reports discovery fase https:
-
-  'https://drive.google.com/drive/folders/1RhsCoIbYS_yZDI-j0_34pyAPooFT476-'
-- Testing protocols en reports description fase:
-
-  'https://drive.google.com/drive/folders/1D4ZB3Uvg7KZcPki2clt-H5F0CqyrTQFd?usp=drive_link' 
+  1. Miro: https://miro.com/app/board/uXjVNc1zdgc=/?share_link_id=899791927824
+  2. Storyboard:  'https://docs.google.com/document/d/1PAMnb7MO7Bppltpi9P80tcRVxcwcwrIgiHbt-Jk9FPo/edit'
+  3. Discovery fase
+     3.1 Protocol: https://docs.google.com/document/d/1FGFA2_OABoaI8CrIuQvqfbX3N6o7JtwKsMvAO_Eazso/edit?usp=drive_link
+     3.2 Report: https://docs.google.com/document/d/1mZublJIyd-Q7XpedVGfTCrBZQfu09Ld8MNcGmX6Krok/edit?usp=drive_link
+  4. Description fase
+     4.1 Protocol: https://docs.google.com/document/d/17MGT2UVVByf0XPj-5q3udDqsM0CVka7b5iMBJPDu7U0/edit?usp=drive_link
+     4.2 Report: https://docs.google.com/document/d/15jkyQQrgnohFOTb53yQc52A7FkKJDNJe2gj-xHFZVgE/edit?usp=drive_link
+  5. Deelopdracht 3
+     5.1 Protocol: https://docs.google.com/document/d/1oxgNrhcFk-cyLVjD3RIEkG_EgXbaDWnPPPzUKwT3GxM/edit?usp=drive_link
+     5.2 Report: https://docs.google.com/document/d/1r_shWgywcSDu3Vw36urfKN32AsDJcoCDtGzQOMJXIDQ/edit?usp=drive_link
+  6. Deelopdracht 4
+     6.1 Protocol: https://docs.google.com/document/d/1eZsqh_mGsqVSkwLgFUDISyCOR7UGc5VSt8z2rjgIzVg/edit?usp=drive_link
+     6.2 Report: https://docs.google.com/document/d/1eZsqh_mGsqVSkwLgFUDISyCOR7UGc5VSt8z2rjgIzVg/edit?usp=sharing
+     6.3 Figma: https://www.figma.com/file/1b685Z5M96jpOfbmoFARH8/Human-Mind?type=design&node-id=0%3A1&mode=design&t=tzwZ3nUNEwL7cRxb-1
+  7. Deelopdracht 5
+     7.1 Protocol: https://docs.google.com/document/d/1cbDi-44xLn8_No2PmOHa-5q3kxER4X_aIlw8J3oAgts/edit?usp=drive_link
+     7.2 Report: https://docs.google.com/document/d/11ZxHPO6jP7AN1ZLrS8RDUxxKPpv0mjnhVY8nhi09ijg/edit?usp=drive_link
+     7.3 Protopie
+         7.3.1 Versie 1 (jager): https://cloud.protopie.io/p/2dac8448156e50e50abb0189?handoff=true
+         7.3.2 Versie 1 (vluchter): https://cloud.protopie.io/p/1b6e3bdad02ec55ad6ee2c1d?handoff=true
+         7.3.3 Versie 2 (jager):  https://cloud.protopie.io/p/6181742c752c49676d6f63c7?handoff=true
+         7.3.4 Versie 2 (vluchter): https://cloud.protopie.io/p/f5393db5d930e97091114264?handoff=true
