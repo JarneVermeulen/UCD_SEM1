@@ -1,11 +1,11 @@
 # Jachtspel
-Jachtspel is een spel waarbij jagers verschillende vluchters moeten pakken, en dit allemaal aan de hand van een controller. 
+Jachtspel is een spel voor jongere waarbij jagers verschillende vluchters moeten pakken. 
 
 G11: Jarne Jan Vermeulen; Aline Tijtgat
 
 
-24/01/2024
-
+24/05/2024
+# Semester 1
 ## Samenvatting
 Het probleem is dat kinderen tegenwoordig minder buiten spelen, wat negatieve gevolgen kan hebben voor hun fysieke gezondheid en welzijn. We hebben dit onderzocht door middel van User interviews en Benchmarking. Uit dit onderzoek blijkt dat ze te weinig bewegen. Ze zouden per dag één uur matig tot intensief moeten bewegen. Dit is voornamelijk te danken aan het vele schermgebruik. 
 
@@ -161,13 +161,85 @@ Hoe we de controllers zullen laten communiceren met elkaar is ook nog niet uitge
 
 Het concept viel duidelijk in de smaak bij de jongeren. Maar om dit concept voor een lange tijd interessant te houden, moet het idee wat uitbreiden. Eventueel door meerdere variaties van het spel te voorzien, dat de controller verschillende doeleinden heeft. Of door er een app aan te koppelen, zo kan er onder vrienden competitie ontstaan.  De app kan nog andere functies bieden, zoals het afgelegde parcours tonen of de batterijconditie van de controller. Op het einde moet er rekening gehouden worden of het product toegankelijk is voor diverse gemeenschappen en leeftijden. 
 
+# Semester 2
+## Samenvatting
+Om tot een finaal eindwerk te komen, werden er 3 deelopdrachten uitgevoerd in het tweede semester. Hiervoor hebben we verder gewerkt met de vorm uit het eerste semester en met de feedback die we kregen. In de eerste deelopdracht hebben we ons gericht op het optimaliseren van de fysieke ergonomie van de controller en band. Bij de tweede deelopdracht onderzochten we de gebruiksvriendelijkheid en de user experience van het ontwerp. En als laatste verfijnden we de interacties en de user journey. 
+
 ## Deelopdracht 3
+### Doelstellingen
+In het kader van onze eerste opdracht van het tweede semester hebben we ons gericht op het optimaliseren van de fysieke ergonomie van onze controller en band. Met de gekregen feedback van het eerste semester hebben we ervoor gekozen om een band rond de arm toe te voegen aan ons ontwerp. Zo kunnen de jongeren voluit spelen en lopen tijdens het spel. Om dit allemaal te bereiken, hebben we verschillende maten in kaart gebracht. Deze maten zijn de handlengte en -breedte, de elleboog-hand lengte en de lengte van de vingers. Voor alle maten hebben we gekozen voor de ontwerpstrategie: design for the mean / design for all. Dit ontwerptype is voor het gemiddelde van de populatie, van 10-15 jaar, zo hopen we een controller te creëren die voor de meeste spelers een optimale gebruikerservaring biedt. Voor het jachtspel is het van belang dat de controller conmfortabel ligt. Dit vergemakkelijkt ook de productie en distributie van het product.
+
+Hiervoor hebben een analyse gedaan van data op de site van dinbelg.be
+### Materiaal
+Aan de hand van de bekomen data creëerden we verschillende prototypes. De controller werd gemaakt uit karton, telkens 3 verschillende afmetingen. Na wat benchmarking, zijn we gegaan voor de vorm die we bekomen hebben in semester 1 want deze kwam er positief uit, maar met afgeronde hoeken. De lengte van de controller werd berekend met de handlengte en -breedte. Het gemiddelde werd genomen voor de 10-15 jarigen, en dan 1 keer plus en min de standaardafwijking. Voor de breedte van de controller namen we de lengte van de vingers, wanneer je dit verdubbelt heb je de omtrek. Ook hier namen we het gemiddelde van de doelgroep, en 1 keer plus & min de standaardafwijking. Zo hadden we volgende afmetingen: (3: 10,4 - 4,1 /1: 12,1 - 4,6 / 2: 13,8 - 5,1)cm. Voor de band hebben we eerst aan benchmarking gedaan (zie Miro) voor het bepalen van het uiterlijk. Voor stevigheid komt deze vast te zitten tot aan de vingers. De band hebben we gemaakt uit een nylon kous, en met als afmeting de elleboog-hand lengte. Voor de elleboog-hand lengte hebben we het 95te percentiel gebruikt zodat dit ook voor volwassenen zou kunnen gebruikt worden. Zo kwamen we aan een gemiddelde lengte van 24 cm. De omtrek van de band zal instelbaar zijn, dus deze moest niet bepaald worden. De verbinding tussen de band en de controller wordt met velcro bekomen.
+### Methoden
+De User testen worden uitgevoerd met 5 respondenten. De respondenten hebben leeftijden tussen 10 en 15 jaar. Als extra hebben we ervoor gekozen om een volwassene toe te voegen, zo wanneer het kind eens met zijn ouder wil spelen, weten we of dit model ook past voor hen.
+
+De testen draaiden vooral rond de spelervaring en ergonomie. Eerst wordt er een kwalificatie uitgevoerd, dan een simulatie en om te eindigen een reflectie/ conclusie. In de simulatie voeren de jongeren verschillende parcours uit, telkens met een andere controller. Eerst met controller, dan met controller en band. Ook vragen we hier of ze eens informatie willen aflezen van de controller, zo kunnen we zien of de jongere liever de informatie horizontaal of verticaal heeft op de controller. In deze fase moet er goed geobserveerd worden, zo kan er feedback verzamelt worden. Als laatste volgt er een reflectie, hier vragen we achter hun gebruikerservaring en welke controller uitsprong. Ze kunnen dan ook tips meegeven om het ontwerp te optimaliseren.
+### Resultaten
+Na de testen bleek dat de controller met de afmetingen van de gemiddelde waarde niet de favoriet was, maar de controller met éénmaal de standaardafwijking kleiner dan die waarde. Ook de volwassene, die buiten de doelgroep zat, koos voor deze afmetingen. Er blijken dus geen grote verschillen te zitten tussen de verschillende leeftijden. Bij het vrouwelijk geslacht was duidelijk controller 3 de favoriet. Bij het mannelijk geslacht waren controller 1 en 3 de favorieten. Na de testen viel op wat voor invloed de band had, het zorgde duidelijk voor wat meer comfort en bewegingsvrijheid tijdens het spelverloop. Iets waar rekening mee gehouden moet worden, is het aflezen van informatie. Opvallend is wanneer het was enkel met de controller in hun handen, lazen ze de informatie verticaal, en wanneer dit met de controller en band was, lazen ze de informatie horizontaal. Voor de band waren er wel wat zaken die nog beter konden, bijvoorbeeld de stof die strakker moet zitten. Ook zou de band instelbaar moeten zijn zodat die rond de mouw van een jas kan geplaatst worden, wanneer je bijvoorbeeld in de winter speelt.
+### Conclusies & implicaties
+Design requierements:
+
+1. De afmetingen van controller 3 worden gebruikt.
+2. De features van de controller moeten goed geplaatst worden, dat ze makkelijk af te lezen zijn in beide situaties. Dus wanneer de controller in je hand zit, dat ze makkelijk af te lezen zijn vanuit de horizontale stand.
+3. De band moet uit een materiaal bestaan die niet te veel uitrekt, zodat deze strak genoeg zit.
+4. De omtrek van de band moet groot genoeg zijn, om bijvoorbeeld rond de mouw van een jas te kunnen.
 
 ## Deelopdracht 4
+### Doelstellingen
+Het doel van de vierde deelopdracht is om ons ontwerp te onderzoeken op gebruiksvriendelijkheid en user experience. Dit werd gedaan in twee delen. Als eerste hebben medestudenten onderzocht of het ontwerp voldoet aan de heuristieken van Nielsen. En bij het tweede onderzoek werden er gebruikerstesten uitgevoerd.
+### Materiaal
+Via een figma template werden er vijf controllers ontworpen waarbij de functies telkens op en ander plaats staan. Enkel op de achterkant van de controller werd er niets geplaatst. De controllers bevatten volgende onderdelen:
+1. Logo van de batterij, die de batterijstatus aangeeft
+2. Een pauze knop om het spel op pauze te zetten bij een noodgeval
+3. Leds die aangeven welke rol in het spel je hebt (jager of vluchter)
+4. Leds of radar die de richting aangeven waarin je moet lopen (de radar werd toegevoegd na het expert review)
+5. Een aan/ uit knop om de controller op te starten of af te sluiten
+6. Scherm met de tijd, voor de tijdsduur van het spel en zodat je kan weten wanneer je info krijgt (nieuwe locatie)
+7. Scherm met de afstand van de ander speler t.o.v. jezelf
+Bepaalde controllers hebben tweemaal hetzelfde onderdeel / functie, dus wanneer je de controller vasthoudt en de functie bedekt met je hand, kan je nog steeds de funtie zien aan de andere kant. Zo is er ook geen verschil voor mensen die linkshandig of rechtshandig zijn.
+
+### Methoden
+De expert reviews worden uitgevoerd met 2 respondenten. De respondenten hebben leeftijd tussen 19-21 jaar.
+Het belangrijkste aspect van de expert revieuws is de simulatie. Hierbij wordt de bruikbaarheid van het product geëvalueerd aan de hand van 'de 10 Heuristieken van Nielsen'. Dit werd aangemaakt via een template die op het Miro bord te vinden is. In deel 3 van het expert review kunnen de experts nog extra feedback geven en worden de belangrijkste resultaten eens overlopen. Ook wordt aan de medestudenten gevraagd hoe we de gevonden problemen kunnen oplossen. 
+
+De gebruikerstesten worden uitgevoerd met 4 respondenten. De respondenten hebben leeftijden tussen 10 en 16 jaar.
+Eerst wordt er een kwalificatie uitgevoerd om de algemene gegevens van de gebruiker na te gaan. Voor de gebruikerstesten wordt er ook getest via confrontatie. Zo wordt er één variant van de controller getoond, gevraagd wat hun eerste reactie is en hoe ze verwachten dat dit werkt. Hierna volgt de simulatie fase, hiervoor moeten de gebruikers een aantal scenario's uit voeren, en zo ontdekken of alles voldoende duidelijk is. Als laatste wordt er een reflectie uigevoerd met enkele open vragen, zoals welke controller is je favoriet, of welke aanpassingen zou je nog doen.
+### Resultaten
+Bij de expert reviews viel het vele kleurengebruik meteen op, en was zeker een goede keuze. De symbolen / figuren waren voor een groot deel duidelijk, echter ging er een voorkeur uit naar het lopend mannetje of het hert en het mannetje met de werper voor de rol-aanduiding. De verrekijker was wel geen goede keuze. Daarnaast werd er ook nog de tip gegeven om bijvoorbeeld een radar te gebruiken, in plaats van de richtingsaanwijzers. De handleiding van de controller valt niet direct in onze doelgroep omdat dit eerder door de ouders gelezen zal worden en zo meegegeven worden aan het kind.
+
+Bij de gebruikerstesten was over het algemeen Controller 1 de favoriet van de respondenten, voornamelijk vanwege het uiterlijk, de symmetrie en de algemene lay-out van de functies. Hoewel de meeste functies over het algemeen duidelijk zijn na uitleg, zo zijn de simulaties iedere keer perfect uitgevoerd, zijn er toch enkele punten van zorg, zoals de duidelijkheid van de richtingaanwijzers en de rol-aanduiding. Indien er richtingaanwijzers worden toegevoegd aan het ontwerp, moeten er hier zeker pijltjes aan toegevoegd worden. De voorkeur voor de radar of voor de richtingaanwijzers is fifty-fifty. Maar wanneer we storytelling toepasten op ons concept, merkten we dat de richtingsaanwijzers niet simpel gingen zijn wanneer het spel met meerdere speler ging gespeeld worden. Hierdoor hebben we beslist voor de radar te gaan.  Bij de rol-aanduiding geven sommige respondenten de voorkeur aan tekstuele aanduidingen boven symbolen, terwijl anderen liever symbolen hebben. Echter na het grondig bekijken van de resultaten, waren de symbolen van het lopende mannetje en het mannetje met de werper degene die er uitsprongen. 
+Ook is er een consistente voorkeur voor plaatsing van bepaalde functies, zoals het hebben van de batterij aan de zijkant en het vermijden van te drukke lay-outs. Controller 1 zijn lay-out wordt overgenomen, behalve de zijkanten. De aan/uit-knop en de pauze knop mogen samen staan aan 1 kant, en aan de andere kant de rolaanduiding met de batterijstatus. Ook heeft controller 1 symmetrie in zijn lay-out, maar vanwege de grootte van de controller, zijn 2 radars helaas niet mogelijk. Hierdoor moet de symmetrie op een andere manier weergegeven worden. 
+Controller 1 werd ook gekozen door zijn leuke estethiek, dus er moet zeker wat kleur zitten in het ontwerp. Echter de controller zelf mag in een donkere kleur zijn. De kleur wit moeten we vermijden vanwege eventuele verkleuring door vuil. 
+
+### Conclusies & implicaties 
+Design requirements:
+1. Controller 1 is de algemene favoriet qua plaatsing en uiterlijk
+2. Symmetrische lay-out
+3. Zijkant 1 met de aan/uit-knop, zijkant 2 met de rol-aanduiding en batterijstatus
+4. De symbolen van het lopend mannetje en het mannetje met de werper voor de rol-aanduiding
+5. De richting wordt aangeduid met een radar
+6. Controller in een donkere kleur, maar wel met een esthetisch aantrekkelijk ontwerp passend in het thema, met kleuraccenten die visueel aantrekkelijk zijn
 
 ## Deelopdracht 5
+### Doelstellingen
+Het doel van de opdracht is het verfijnen van het interactie-ontwerp en optimaliseren van de user journey. Er wordt hier naartoe gewerkt door het uitvoeren van een hiërarchische taakanalyse en het analyseren van gebruikerstesten.
+### Materiaal
+Het eerste deel van de opdracht, de hiërarchische taakanalyse, wordt uitgevoerd in een Miro template. Vervolgens werden een Protopie templates gemaakt met het uiterlijk dat bekomen werd uit deelopdracht 4. De templates bevat de verschillende interacties die noodzakelijk zijn voor een spelverloop. Aangezien er soms meerdere interactie mogelijkheden zijn voor een bepaalde functie, werden er 2 versies gemaakt. Ook telkens een versie voor de jager en 1 voor de vluchter.
+### Methoden
+Via de hiërarchische taakanalyse worden de verschillende interactie keuzes in kaart gebracht.
 
-## Finaal prototype
+De gebruikerstesten worden uitgevoerd met 4 respondenten tussen 10-16 jaar. Per test spelen 2 respondenten het jachtspel, hierbij is de ene respondent de jager en de andere de vluchter. Het spel wordt dus gesimuleerd. Hierbij observeren we hun interacties met de verschillende versies, en achteraf wordt er feedback verzamelt. Als laatste wordt er een reflectie uitgevoerd met enkele open vragen.
+### Resultaten
+
+### Conclusies & implicaties 
+
+## Algemene conclusie
+
+### Design Requirements
+
+### Finaal Prototype
 
 ## Bronnen
 1. De Morgen. (2018, 18 november). Meer dan 90 procent van Vlaamse kinderen beweegt te weinig: de situatie is problematisch [Artikel]
