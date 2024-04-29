@@ -201,7 +201,7 @@ Aan de hand van de bekomen data creëerden we verschillende prototypes. De contr
         <td><img src="afbeeldingen deelopdracht 3/afmeting vinger.png" width="100%"/></td>
     </tr>
 </table>
-Voor de band hebben we eerst aan benchmarking gedaan (zie Miro) voor het bepalen van het uiterlijk. Voor stevigheid komt de band vast te zitten tot aan de vingers zodat die niet kan roteren rond de arm (zie voorbeeld hieronder). De band hebben we gemaakt uit een nylon kous, en met als afmeting de elleboog-hand lengte. Voor de elleboog-hand lengte hebben we het 95ste percentiel gebruikt zodat dit ook voor volwassenen zou kunnen gebruikt worden. Zo kwamen we aan een lengte van 24 cm. De omtrek van de band zal instelbaar zijn, dus deze moest niet bepaald worden. De verbinding tussen de band en de controller wordt met velcro bekomen.
+Om het uiterlijk van de band te bepalen, hebben we eerst aan benchmarking gedaan (zie Miro)  Voor stevigheid komt de band vast te zitten tot aan de vingers, zodat deze niet kan roteren rond de arm (zie voorbeeld hieronder). De band hebben we gemaakt uit een nylon kous, en met als afmeting de elleboog-hand lengte. Voor de elleboog-hand lengte hebben we het 95ste percentiel gebruikt zodat dit ook voor volwassenen zou kunnen gebruikt worden. Zo kwamen we aan een lengte van 24 cm. De omtrek van de band zal instelbaar zijn, dus deze moest niet bepaald worden. De verbinding tussen de band en de controller gebeurt aan de hand van velcro.
 <table border="1">
     <tr>
         <td>band benchmarking</td>
@@ -217,16 +217,26 @@ Voor de band hebben we eerst aan benchmarking gedaan (zie Miro) voor het bepalen
     </tr>
 </table>
 ### Methoden
-De User testen worden uitgevoerd met 5 respondenten. De respondenten hebben leeftijden tussen 10 en 15 jaar. Als extra hebben we ervoor gekozen om een volwassene toe te voegen, zo wanneer het kind eens met zijn ouder wil spelen, weten we of dit model ook past voor hen.
+De user testen worden uitgevoerd met 5 respondenten. De respondenten hebben leeftijden tussen 10 en 15 jaar. Als extra hebben we ervoor gekozen om een volwassene toe te voegen, zo wanneer het kind eens met zijn ouder wil spelen, weten we of dit model ook past voor hen.
 
 De testen draaiden vooral rond de spelervaring en ergonomie. Eerst wordt er een kwalificatie uitgevoerd, dan een simulatie en om te eindigen een reflectie/ conclusie. In de simulatie voeren de jongeren verschillende parcours uit, telkens met een andere controller. Eerst met controller, dan met controller en band. Ook vragen we hier of ze eens informatie willen aflezen van de controller, zo kunnen we zien of de jongere liever de informatie horizontaal of verticaal heeft op de controller. In deze fase moet er goed geobserveerd worden, zo kan er feedback verzamelt worden. Als laatste volgt er een reflectie, hier vragen we achter hun gebruikerservaring en welke controller uitsprong. Ze kunnen dan ook tips meegeven om het ontwerp te optimaliseren.
 ### Resultaten
 Na de testen bleek dat de controller met de afmetingen van de gemiddelde waarde niet de favoriet was, maar de controller met éénmaal de standaardafwijking kleiner dan die waarde. Ook de volwassene, die buiten de doelgroep zat, koos voor deze afmetingen. Er blijken dus geen grote verschillen te zitten tussen de verschillende leeftijden. Bij het vrouwelijk geslacht was duidelijk controller 3 de favoriet. Bij het mannelijk geslacht waren controller 1 en 3 de favorieten. Na de testen viel op wat voor invloed de band had, het zorgde duidelijk voor wat meer comfort en bewegingsvrijheid tijdens het spelverloop. Iets waar rekening mee gehouden moet worden, is het aflezen van informatie. Opvallend is wanneer het was enkel met de controller in hun handen, lazen ze de informatie verticaal, en wanneer dit met de controller en band was, lazen ze de informatie horizontaal. Voor de band waren er wel wat zaken die nog beter konden, bijvoorbeeld de stof die strakker moet zitten. Ook zou de band instelbaar moeten zijn zodat die rond de mouw van een jas kan geplaatst worden, wanneer je bijvoorbeeld in de winter speelt.
+<table border="1">
+    <tr>
+        <td>gebruikerstest</td>
+        <td>arm volwassenen</td>
+    </tr>
+    <tr>
+        <td><img src="afbeeldingen deelopdracht 3/gebruikerstest.png" width="100%"/></td>
+        <td><img src="afbeeldingen deelopdracht 3/arm volwassen.png" width="100%"/></td>
+    </tr>
+</table>
 ### Conclusies & implicaties
 Design requierements:
 
 1. De afmetingen van controller 3 worden gebruikt.
-2. De features van de controller moeten goed geplaatst worden, dat ze makkelijk af te lezen zijn in beide situaties. Dus wanneer de controller in je hand zit, dat ze makkelijk af te lezen zijn vanuit de horizontale stand.
+2. De features van de controller moeten goed geplaatst worden, dat ze makkelijk af te lezen zijn in beide situaties (rond arm en in de hand). Dus wanneer de controller in je hand zit, dat ze makkelijk af te lezen zijn vanuit de horizontale stand.
 3. De band moet uit een materiaal bestaan die niet te veel uitrekt, zodat deze strak genoeg zit.
 4. De omtrek van de band moet groot genoeg zijn, om bijvoorbeeld rond de mouw van een jas te kunnen.
 
@@ -244,17 +254,44 @@ Via een figma template werden er vijf controllers ontworpen waarbij de functies 
 7. Scherm met de afstand van de ander speler t.o.v. jezelf
 Bepaalde controllers hebben tweemaal hetzelfde onderdeel / functie, dus wanneer je de controller vasthoudt en de functie bedekt met je hand, kan je nog steeds de funtie zien aan de andere kant. Zo is er ook geen verschil voor mensen die linkshandig of rechtshandig zijn.
 
+<table border="1">
+    <tr>
+        <td>versie 1</td>
+        <td>versie 2</td>
+        <td>versie 3</td>
+        <td>versie 4</td>
+        <td>versie 5</td>
+    </tr>
+    <tr>
+        <td><img src="afbeeldingen deelopdracht 4/versie 1.png" width="100%"/></td>
+        <td><img src="afbeeldingen deelopdracht 4/versie 2.png" width="100%"/></td>
+        <td><img src="afbeeldingen deelopdracht 4/versie 3.png" width="100%"/></td>
+        <td><img src="afbeeldingen deelopdracht 4/versie 4.png" width="100%"/></td>
+        <td><img src="afbeeldingen deelopdracht 4/versie 5.png" width="100%"/></td>
+    </tr>
+</table>
+Bepaalde controllers hebben tweemaal hetzelfde onderdeel / functie, dit werd bedacht voor wanneer je de controller vasthoudt in je hand. Als je een functie bedekt met je hand, kan je nog steeds de funtie zien aan de andere kant van de controller. Zo is er ook geen verschil voor mensen die linkshandig of rechtshandig zijn.
+
 ### Methoden
 De expert reviews worden uitgevoerd met 2 respondenten. De respondenten hebben leeftijd tussen 19-21 jaar.
 Het belangrijkste aspect van de expert revieuws is de simulatie. Hierbij wordt de bruikbaarheid van het product geëvalueerd aan de hand van 'de 10 Heuristieken van Nielsen'. Dit werd aangemaakt via een template die op het Miro bord te vinden is. In deel 3 van het expert review kunnen de experts nog extra feedback geven en worden de belangrijkste resultaten eens overlopen. Ook wordt aan de medestudenten gevraagd hoe we de gevonden problemen kunnen oplossen. 
 
 De gebruikerstesten worden uitgevoerd met 4 respondenten. De respondenten hebben leeftijden tussen 10 en 16 jaar.
 Eerst wordt er een kwalificatie uitgevoerd om de algemene gegevens van de gebruiker na te gaan. Voor de gebruikerstesten wordt er ook getest via confrontatie. Zo wordt er één variant van de controller getoond, gevraagd wat hun eerste reactie is en hoe ze verwachten dat dit werkt. Hierna volgt de simulatie fase, hiervoor moeten de gebruikers een aantal scenario's uit voeren, en zo ontdekken of alles voldoende duidelijk is. Als laatste wordt er een reflectie uigevoerd met enkele open vragen, zoals welke controller is je favoriet, of welke aanpassingen zou je nog doen.
-### Resultaten
-Bij de expert reviews viel het vele kleurengebruik meteen op, en was zeker een goede keuze. De symbolen / figuren waren voor een groot deel duidelijk, echter ging er een voorkeur uit naar het lopend mannetje of het hert en het mannetje met de werper voor de rol-aanduiding. De verrekijker was wel geen goede keuze. Daarnaast werd er ook nog de tip gegeven om bijvoorbeeld een radar te gebruiken, in plaats van de richtingsaanwijzers. De handleiding van de controller valt niet direct in onze doelgroep omdat dit eerder door de ouders gelezen zal worden en zo meegegeven worden aan het kind.
 
-Bij de gebruikerstesten was over het algemeen Controller 1 de favoriet van de respondenten, voornamelijk vanwege het uiterlijk, de symmetrie en de algemene lay-out van de functies. Hoewel de meeste functies over het algemeen duidelijk zijn na uitleg, zo zijn de simulaties iedere keer perfect uitgevoerd, zijn er toch enkele punten van zorg, zoals de duidelijkheid van de richtingaanwijzers en de rol-aanduiding. Indien er richtingaanwijzers worden toegevoegd aan het ontwerp, moeten er hier zeker pijltjes aan toegevoegd worden. De voorkeur voor de radar of voor de richtingaanwijzers is fifty-fifty. Maar wanneer we storytelling toepasten op ons concept, merkten we dat de richtingsaanwijzers niet simpel gingen zijn wanneer het spel met meerdere speler ging gespeeld worden. Hierdoor hebben we beslist voor de radar te gaan.  Bij de rol-aanduiding geven sommige respondenten de voorkeur aan tekstuele aanduidingen boven symbolen, terwijl anderen liever symbolen hebben. Echter na het grondig bekijken van de resultaten, waren de symbolen van het lopende mannetje en het mannetje met de werper degene die er uitsprongen. 
-Ook is er een consistente voorkeur voor plaatsing van bepaalde functies, zoals het hebben van de batterij aan de zijkant en het vermijden van te drukke lay-outs. Controller 1 zijn lay-out wordt overgenomen, behalve de zijkanten. De aan/uit-knop en de pauze knop mogen samen staan aan 1 kant, en aan de andere kant de rolaanduiding met de batterijstatus. Ook heeft controller 1 symmetrie in zijn lay-out, maar vanwege de grootte van de controller, zijn 2 radars helaas niet mogelijk. Hierdoor moet de symmetrie op een andere manier weergegeven worden. 
+<table border="1">
+    <tr>
+        <td>gebruikerstest</td>
+</tr>
+    <tr>
+        <td><img src="afbeeldingen deelopdracht 4/gebruikerstest.jpg" width="30%"/></td>                                             
+    </tr>
+</table>
+### Resultaten
+Bij de expert reviews viel het vele kleurengebruik meteen op, en was zeker een goede keuze. De symbolen / figuren waren voor een groot deel duidelijk, echter ging er een voorkeur uit naar het lopend mannetje of het hert en het mannetje met de werper voor de rol-aanduiding. De verrekijker was wel geen goede keuze. Daarnaast werd er ook nog de tip gegeven om bijvoorbeeld een radar te gebruiken, in plaats van de richtingsaanwijzers. Door eerst een expert review te doen en daarna een gebruikerstest werd de controller versie 5 met radar nog toegevoegd in deze deelopdracht. De handleiding van de controller valt niet direct in onze doelgroep omdat dit eerder door de ouders gelezen zal worden en zo meegegeven worden aan het kind.
+
+Bij de gebruikerstesten was over het algemeen Controller 1 de favoriet van de respondenten, voornamelijk vanwege het uiterlijk, de symmetrie en de algemene lay-out van de functies. Hoewel de meeste functies over het algemeen duidelijk zijn na uitleg, zo zijn de simulaties iedere keer perfect uitgevoerd, zijn er toch enkele punten van zorg, zoals de duidelijkheid van de richtingaanwijzers en de rol-aanduiding. Indien er richtingaanwijzers worden toegevoegd aan het ontwerp, moeten er hier zeker pijltjes aan toegevoegd worden. De voorkeur voor de radar of voor de richtingaanwijzers is fifty-fifty. Maar wanneer we de taakanalyse toepasten op ons concept, merkten we dat de richtingsaanwijzers niet simpel gingen zijn wanneer het spel met meerdere speler ging gespeeld worden. Hierdoor hebben we beslist voor de radar te gaan.  Bij de rol-aanduiding geven sommige respondenten de voorkeur aan tekstuele aanduidingen boven symbolen, terwijl anderen liever symbolen hebben. Echter na het grondig bekijken van de resultaten, waren de symbolen van het lopende mannetje en het mannetje met de werper degene die er uitsprongen. 
+Ook is er een consistente voorkeur voor plaatsing van bepaalde functies, zoals het hebben van de batterij aan de zijkant en het vermijden van te drukke lay-outs. Controller 1 zijn lay-out wordt overgenomen, behalve de zijkanten. De aan/uit-knop en de pauze knop mogen samen staan aan 1 kant, en aan de andere kant de rolaanduiding met de batterijstatus. Ook heeft controller 1 symmetrie in zijn lay-out, maar vanwege de grootte van de controller, zijn 2 radars helaas niet mogelijk. Hierdoor werd beslist om de symmetrie op een andere manier weer te geven.  
 Controller 1 werd ook gekozen door zijn leuke estethiek, dus er moet zeker wat kleur zitten in het ontwerp. Echter de controller zelf mag in een donkere kleur zijn. De kleur wit moeten we vermijden vanwege eventuele verkleuring door vuil. 
 
 ### Conclusies & implicaties 
@@ -271,6 +308,14 @@ Design requirements:
 Het doel van de opdracht is het verfijnen van het interactie-ontwerp en optimaliseren van de user journey. Er wordt hier naartoe gewerkt door het uitvoeren van een hiërarchische taakanalyse en het analyseren van gebruikerstesten.
 ### Materiaal
 Het eerste deel van de opdracht, de hiërarchische taakanalyse, wordt uitgevoerd in een Miro template. Vervolgens werden een Protopie templates gemaakt met het uiterlijk dat bekomen werd uit deelopdracht 4. De templates bevat de verschillende interacties die noodzakelijk zijn voor een spelverloop. Aangezien er soms meerdere interactie mogelijkheden zijn voor een bepaalde functie, werden er 2 versies gemaakt. Ook telkens een versie voor de jager en 1 voor de vluchter.
+<table border="1">
+    <tr>
+        <td>controller layout</td>
+</tr>
+    <tr>
+        <td><img src="afbeeldingen deelopdracht 5/controller.png" width="30%"/></td>                                             
+    </tr>
+</table>
 ### Methoden
 Via de hiërarchische taakanalyse worden de verschillende interactie keuzes in kaart gebracht.
 
@@ -278,7 +323,7 @@ De gebruikerstesten worden uitgevoerd met 4 respondenten tussen 10-16 jaar. Per 
 ### Resultaten
 
 ### Conclusies & implicaties 
-
+Design requirements
 ## Algemene conclusie
 
 ### Design Requirements
