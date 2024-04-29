@@ -347,6 +347,8 @@ Design requirements
 
 ### Finaal Prototype
 Render / grafisch verzorgd
+
+### Kritische reflectie
 ## Bronnen
 1. De Morgen. (2018, 18 november). Meer dan 90 procent van Vlaamse kinderen beweegt te weinig: de situatie is problematisch [Artikel]
    Geraadpleegd van
