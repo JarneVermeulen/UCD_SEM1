@@ -166,7 +166,7 @@ Het concept viel duidelijk in de smaak bij de jongeren. Maar om dit concept voor
 ## Samenvatting
 Om tot een finaal eindwerk te komen, werden er 3 deelopdrachten uitgevoerd in het tweede semester. Hiervoor hebben we verder gewerkt met de vorm uit het eerste semester en met de feedback die we kregen. In de eerste deelopdracht hebben we ons gericht op het optimaliseren van de fysieke ergonomie van de controller en band. Bij de tweede deelopdracht onderzochten we de gebruiksvriendelijkheid en de user experience van het ontwerp. En als laatste verfijnden we de interacties en de user journey. 
 
-## Methodologie 
+
 ## Methdologie
 | fase 2| periode                        | actie                         | resultaat                                       |
 |-------|--------------------------------|-------------------------------|-------------------------------------------------|
@@ -178,6 +178,7 @@ Om tot een finaal eindwerk te komen, werden er 3 deelopdrachten uitgevoerd in he
 | 6     | 13-05-2024 t.e.m  24-05-2024   | filmen en monteren            | explainer video                                 |
 | 7     | 13-05-2024 t.e.m  24-05-2024   | rapporteren                   | finaal rapport en presentatie                   |
 
+## Deelopdracht 3
 ### Doelstellingen
 In het kader van onze eerste opdracht van het tweede semester hebben we ons gericht op het optimaliseren van de fysieke ergonomie van onze controller en band. Met de gekregen feedback van het eerste semester hebben we ervoor gekozen om een band rond de arm toe te voegen aan ons ontwerp. Zo kunnen de jongeren voluit spelen en lopen tijdens het spel. Om dit allemaal te bereiken, hebben we verschillende maten in kaart gebracht. Deze maten zijn de handlengte en -breedte, de elleboog-hand lengte en de lengte van de vingers. Voor alle maten hebben we gekozen voor de ontwerpstrategie: design for the mean / design for all. Dit ontwerptype is voor het gemiddelde van de populatie, van 10-15 jaar, zo hopen we een controller te creëren die voor de meeste spelers een optimale gebruikerservaring biedt. Voor het jachtspel is het van belang dat de controller conmfortabel ligt. Dit vergemakkelijkt ook de productie en distributie van het product.
 
