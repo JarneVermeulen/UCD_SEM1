@@ -178,13 +178,15 @@ Om tot een finaal eindwerk te komen, werden er 3 deelopdrachten uitgevoerd in he
 | 6     | 13-05-2024 t.e.m  24-05-2024   | filmen en monteren            | explainer video                                 |
 | 7     | 13-05-2024 t.e.m  24-05-2024   | rapporteren                   | finaal rapport en presentatie                   |
 
-Tijdens het tweede semester worden 3 grote fasen doorlopen. We begonnen het semester met een reflectie op het eerste semester, hieruit hebben we veel feedback overgenomen. Dan zijn we gestart met de fysieke ergonomie en antroprometrie van de controller en band. Bij de vierde deelopdracht draait alles rond gebruiksvriendelijkheid en user experience. In deze opdracht zijn 2 fasen. Eerst bepaalden we 10 heurestieken van Nielsen, en deze werden dan beoordeeld door medestudenten. Dan volgden gebruikerstesten
+Tijdens het tweede semester worden 3 grote fasen doorlopen. We begonnen het semester met een reflectie op het eerste semester, hieruit hebben we veel feedback overgenomen. Dan zijn we gestart met de fysieke ergonomie en antroprometrie van de controller en band. Bij de vierde deelopdracht draait alles rond gebruiksvriendelijkheid en user experience. In deze opdracht zijn 2 fasen. Eerst bepaalden we 10 heurestieken van Nielsen, en deze werden dan beoordeeld door medestudenten. Dan volgden gebruikerstesten voor een geoptimaliseerd ontwerp. De laatste deelopdracht bestaat ook uit twee delen. Eerste deel is een taakanalyse, en dan gebruikerstesten. Zo is deze opdracht gefocust op de user journey, human-product interaction flows en interaction modalities. Op het einde van het semester werkten we naar een finaal eindwerk toe. Dit is het maken van een finaal prototype en een explainer video. 
 
 ## Deelopdracht 3
 ### Doelstellingen
-In het kader van onze eerste opdracht van het tweede semester hebben we ons gericht op het optimaliseren van de fysieke ergonomie van onze controller en band. Met de gekregen feedback van het eerste semester hebben we ervoor gekozen om een band rond de arm toe te voegen aan ons ontwerp. Zo kunnen de jongeren voluit spelen en lopen tijdens het spel. Om dit allemaal te bereiken, hebben we verschillende maten in kaart gebracht. Deze maten zijn de handlengte en -breedte, de elleboog-hand lengte en de lengte van de vingers. Voor alle maten hebben we gekozen voor de ontwerpstrategie: design for the mean / design for all. Dit ontwerptype is voor het gemiddelde van de populatie, van 10-15 jaar, zo hopen we een controller te creëren die voor de meeste spelers een optimale gebruikerservaring biedt. Voor het jachtspel is het van belang dat de controller conmfortabel ligt. Dit vergemakkelijkt ook de productie en distributie van het product.
-
-Hiervoor hebben een analyse gedaan van data op de site van dinbelg.be en dined.io.tudelft.nl.
+In het kader van onze eerste opdracht van het tweede semester hebben we ons gericht op het optimaliseren van de fysieke ergonomie van onze controller en band. Met de gekregen feedback van het eerste semester hebben we ervoor gekozen om een band rond de arm toe te voegen aan ons ontwerp. Zo kunnen de jongeren voluit spelen en lopen tijdens het spel. Om dit allemaal te bereiken, hebben we verschillende maten in kaart gebracht. Deze maten zijn de handlengte en -breedte, de elleboog-hand lengte en de lengte van de vingers. Voor alle maten hebben we gekozen voor de ontwerpstrategie: design for the mean / design for all. Dit ontwerptype is voor het gemiddelde van de populatie, van 10-15 jaar, zo hopen we een controller te creëren die voor de meeste spelers een optimale gebruikerservaring biedt. Voor het jachtspel is het van belang dat de controller conmfortabel ligt. Dit vergemakkelijkt ook de productie en distributie van het product. Hiervoor hebben een analyse gedaan van data op de site van dinbelg.be en dined.io.tudelft.nl.
+Voor deze opdracht hadden we meerdere onderzoeksvragen. Zoals:
+-    Hoe beleven de jongeren de verschillende prototypes tijdens een spelervaring?
+-    Hoe verschilt de ergonomie van de controller en band tussen jongeren van verschillend        leeftijden, en eventueel van een volwassene?
+-    Hoe kunnen we de controller en band optimaliseren voor een optimale gebruikerservaring?
 
 ### Materiaal
 Aan de hand van de bekomen data creëerden we verschillende prototypes. De controller werd gemaakt uit karton, telkens 3 verschillende afmetingen. Na wat benchmarking, zijn we gegaan voor de vorm die we bekomen hebben in semester 1 want deze kwam er positief uit, maar met afgeronde hoeken. De lengte van de controller werd berekend met de handlengte en -breedte. Dit werd gedaan door de lengte en breedte op te tellen en te delen door twee. De uiteindelijke afmeting voor de 10-15 jarigen werd berekend via de formule voor merging groups. Dan werd die afmeting 1 keer plus en min de standaardafwijking gedaan. na de lengte van de controller werd de breedte bepaald. We begonnen met de lengte van de vingers (7,1 cm), wanneer je dit verdubbelt heb je de omtrek (14,2 cm). Hier namen we de 12-jarigen omdat dit de grootste leeftijd was waarvan die lengte beschikbaar was. Daarna werd tweemaal de dikte van de controller(2 x 2,5 cm), die overgenomen werd vanuit semester 1 afgetrokken waardoor we als resultaat 9,2 cm bekomen. Om de breedte te bekomen moeten we enkel nog die afmeting delen door 2. Ook hier werd die afmeting 1 keer plus & min de standaardafwijking gedaan. Zo hadden we volgende afmetingen: (h:10,4 - b:4,1 / h:12,1 - b:4,6 / h:13,8 - b:5,1)cm.
@@ -218,7 +220,7 @@ Om het uiterlijk van de band te bepalen, hebben we eerst aan benchmarking gedaan
         <td><img src="afbeeldingen deelopdracht 3/velcro.png" width="100%"/></td>
     </tr>
 </table>
-### Methoden
+### Methoden 
 De user testen worden uitgevoerd met 5 respondenten (protocol: bijlage 5.1) . De respondenten hebben leeftijden tussen 10 en 15 jaar. Als extra hebben we ervoor gekozen om een volwassene toe te voegen, zo wanneer het kind eens met zijn ouder wil spelen, weten we of dit model ook past voor hen.
 
 De testen draaiden vooral rond de spelervaring en ergonomie. Eerst wordt er een kwalificatie uitgevoerd, dan een simulatie en om te eindigen een reflectie/ conclusie. In de simulatie voeren de jongeren verschillende parcours uit, telkens met een andere controller. Eerst met controller, dan met controller en band. Ook vragen we hier of ze eens informatie willen aflezen van de controller, zo kunnen we zien of de jongere liever de informatie horizontaal of verticaal heeft op de controller. In deze fase moet er goed geobserveerd worden, zo kan er feedback verzamelt worden. Als laatste volgt er een reflectie, hier vragen we achter hun gebruikerservaring en welke controller uitsprong. Ze kunnen dan ook tips meegeven om het ontwerp te optimaliseren.
@@ -244,7 +246,11 @@ Design requierements:
 
 ## Deelopdracht 4
 ### Doelstellingen
-Het doel van de vierde deelopdracht is om ons ontwerp te onderzoeken op gebruiksvriendelijkheid en user experience. Dit werd gedaan in twee delen. Als eerste hebben medestudenten onderzocht of het ontwerp voldoet aan de heuristieken van Nielsen. En bij het tweede onderzoek werden er gebruikerstesten uitgevoerd.
+Het doel van de vierde deelopdracht is om ons ontwerp te onderzoeken op gebruiksvriendelijkheid en user experience. Dit werd gedaan in twee delen. Als eerste hebben medestudenten onderzocht of het ontwerp voldoet aan de heuristieken van Nielsen, en of er nog eventuele aanpassingen moeten gebeuren. En bij het tweede onderzoek werden er gebruikerstesten uitgevoerd. Dit voor volgende onderzoeksvragen:
+- Is het duidelijk hoe de controller bediend moet worden?
+- Ogen de controllers estethisch mooi?
+- Zijn alle functies duidelijk?
+- 
 ### Materiaal
 Via een figma template (bijlage 6.3) werden er vijf controllers ontworpen waarbij de functies telkens op en ander plaats staan. Enkel op de achterkant van de controller werd er niets geplaatst. De controllers bevatten volgende onderdelen:
 1. Logo van de batterij, die de batterijstatus aangeeft
@@ -272,7 +278,7 @@ Bepaalde controllers hebben tweemaal hetzelfde onderdeel / functie, dus wanneer 
         <td><img src="afbeeldingen deelopdracht 4/versie 5.png" width="100%"/></td>
     </tr>
 </table>
-Bepaalde controllers hebben tweemaal hetzelfde onderdeel / functie, dit werd bedacht voor wanneer je de controller vasthoudt in je hand. Als je een functie bedekt met je hand, kan je nog steeds de funtie zien aan de andere kant van de controller. Zo is er ook geen verschil voor mensen die linkshandig of rechtshandig zijn.
+Het ontwerp van de controllers maakt gebruik van Gestalt-principes zoals nabijheid, gelijkenis en continuïteit. Elementen met dezelfde functie worden gegroepeerd en dicht bij elkaar geplaatst, terwijl vergelijkbare vormen of kleuren worden gebruikt om samenhang te benadrukken. Het ontwerp is symmetrisch en ordelijk voor visuele balans, en er wordt rekening gehouden met zowel linkshandige als rechtshandige gebruikers door duplicaatonderdelen te plaatsen. Dit maakt de controllers niet alleen esthetisch aantrekkelijk, maar ook functioneel en gebruiksvriendelijk voor alle spelers.
 
 ### Methoden
 De expert reviews worden uitgevoerd met 2 respondenten (protocol: bijlage 6.1). De respondenten hebben leeftijd tussen 19-21 jaar.
@@ -308,7 +314,13 @@ Design requirements:
 
 ## Deelopdracht 5
 ### Doelstellingen
-Het doel van de opdracht is het verfijnen van het interactie-ontwerp en optimaliseren van de user journey. Er wordt hier naartoe gewerkt door het uitvoeren van een hiërarchische taakanalyse en het analyseren van gebruikerstesten.
+Het doel van de opdracht is het verfijnen van het interactie-ontwerp en optimaliseren van de user journey. Er wordt hier naartoe gewerkt door het uitvoeren van een hiërarchische taakanalyse en het analyseren van gebruikerstesten. Bij de gebruikerstesten werden volgende onderzoeksvragen in kaart gebracht:
+- Hoe ervaren en reageren de spelers op de verschillende interactie-keuzes tijdens het spelen van het jachtspel?
+- Welke versie wordt door de speler als de meest effectieve of meest plezierige ervaren?
+- Zijn er aspecten van het spel die verbeterd kunnen worden?
+
+Deze opdracht beschrijft duidelijk enkele usabilty-goals. Zoals efficiëntie, want er wordt duidelijk gewezen naar het streven van het optimaliseren van de user journey en het verfijnen van het interactie-ontwerp. Ook effectiviteit is een belangrijk doel, want de testen richten zich op het begrijpen van hoe spelers reageren op de verschillende interactiekeuzes. Voor het spel wordt er gestreeft naar de meest plezierige versie, dus tevredenheid is een doel dat zeker in het oog moet gehouden worden. Onze doelgroep is jongeren, dus makkelijk te herinneren, te leren en een veilig ontwerp zijn allemaal belangrijke doelen. 
+
 ### Materiaal
 Het eerste deel van de opdracht, de hiërarchische taakanalyse, wordt uitgevoerd in een Miro template. Vervolgens werden een Protopie templates (bijlage 7.3) gemaakt met het uiterlijk dat bekomen werd uit deelopdracht 4. De templates bevat de verschillende interacties die noodzakelijk zijn voor een spelverloop. Aangezien er soms meerdere interactie mogelijkheden zijn voor een bepaalde functie, werden er 2 versies gemaakt. Ook telkens een versie voor de jager en 1 voor de vluchter.
 <table border="1">
@@ -319,6 +331,8 @@ Het eerste deel van de opdracht, de hiërarchische taakanalyse, wordt uitgevoerd
         <td><img src="afbeeldingen deelopdracht 5/controller.png" width="30%"/></td>                                             
     </tr>
 </table>
+
+Bij het ontwerpen werd er rekening gehouden met de "gulfs of execution" en "gulfs of evaluation". De "gulf of execution" kan optreden wanneer de spelers moeite hebben om de gewenste interacties uit te voeren tijden het spelen van jachtspel. Bijvoorbeeld een intuitieve bediening van de controller of duidelijk begrijpen welke acties moeten uitgevoerd worden. De gulf werd grotendeels verminderd door de hiërarchische taakanalyse. De "gulf of evaluation" treed op wanneer de spelers moeite hebben om de feedback van het spel te interpreteren en te beoordeln of deze overeenkomt met hun verwachtingen of doelen. Dus het uiteindelijk analyseren van de testen en het verzamelen van feedback zijn stappen om deze gulf te verminderen. 
 ### Methoden
 Via de hiërarchische taakanalyse worden de verschillende interactie keuzes in kaart gebracht. De taakanalyse kan je vinden op miro (bijlage 1)
 
@@ -328,11 +342,11 @@ Alle resultaten zijn te vinden in het report (bijlage 7.2).
 ### Conclusies & implicaties 
 Design requirements
 ## Algemene conclusie
-
+    
 ### Design Requirements
 
 ### Finaal Prototype
-
+Render / grafisch verzorgd
 ## Bronnen
 1. De Morgen. (2018, 18 november). Meer dan 90 procent van Vlaamse kinderen beweegt te weinig: de situatie is problematisch [Artikel]
    Geraadpleegd van
