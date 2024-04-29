@@ -164,7 +164,7 @@ Het concept viel duidelijk in de smaak bij de jongeren. Maar om dit concept voor
 
 # Semester 2
 ## Samenvatting
-Om tot een finaal eindwerk te komen, werden er 3 deelopdrachten uitgevoerd in het tweede semester. Hiervoor hebben we verder gewerkt met de vorm uit het eerste semester en met de feedback die we kregen. In de eerste deelopdracht hebben we ons gericht op het optimaliseren van de fysieke ergonomie van de controller en band. Bij de tweede deelopdracht onderzochten we de gebruiksvriendelijkheid en de user experience van het ontwerp. En als laatste verfijnden we de interacties en de user journey. 
+In het tweede semester hebben we ons gericht op het afronden van ons eindwerk door middel van het uitvoeren van drie deelopdrachten. Deze taken waren gebaseerd op de structuur die we in het eerste semester hadden ontwikkeld, waarbij we ook gebruik hebben gemaakt van de ontvangen feedback. Gedurende het hele semester lag de nadruk op het verbeteren en verfijnen van het ontwerp, met als voornaamste doel het creëren van de meest optimale gebruikerservaring en -traject voor de doelgroep, namelijk jongeren.
 
 
 ## Methdologie
