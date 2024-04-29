@@ -254,7 +254,7 @@ Het doel van de vierde deelopdracht is om ons ontwerp te onderzoeken op gebruiks
 - Is het duidelijk hoe de controller bediend moet worden?
 - Ogen de controllers estethisch mooi?
 - Zijn alle functies duidelijk?
-- 
+  
 ### Materiaal
 Via een figma template (bijlage 6.3) werden er vijf controllers ontworpen waarbij de functies telkens op en ander plaats staan. Enkel op de achterkant van de controller werd er niets geplaatst. De controllers bevatten volgende onderdelen:
 1. Logo van de batterij, die de batterijstatus aangeeft
