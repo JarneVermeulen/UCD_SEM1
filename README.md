@@ -238,6 +238,8 @@ Na de testen bleek dat de controller met de afmetingen van de gemiddelde waarde 
         <td><img src="afbeeldingen deelopdracht 3/arm volwassen.png" width="100%"/></td>
     </tr>
 </table>
+
+
 ### Conlusies & implicaties 
 Design requierements:
 
