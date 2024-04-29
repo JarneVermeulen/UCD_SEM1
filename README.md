@@ -65,12 +65,12 @@ Via dit artikel werden volgende onderzoeksvragen opgesteld:
 - Wat zijn de interesses van jongeren?
 - Wat doen jongeren nu van beweging?
 
-Om te onderzoeken hoe vaak jongeren bewegen en wat hun dagelijkse bezigheden zijn, werden 2 gebruikersinterviews afgenomen. 
+Om te onderzoeken hoe vaak jongeren bewegen en wat hun dagelijkse bezigheden zijn, werden 2 gebruikersinterviews afgenomen (protocol: bijlage 3.1.). 
 Zo werd er via de interviews gevraagd wat de jongeren hun hobby’s zijn en hoe vaak ze die per week uitvoeren, welke sociale media ze gebruiken en welke interesses ze hebben op vlak van muziek, film en sport. Er werd gevraagd hoe vaak ze bewegen op school en tijdens de vakantie om zo het verschil tussen de twee te zien. Daarna werd er gevraagd of ze vaak games spelen op hun gsm, laptop, playstation en of ze hierbij alleen spelen of met vrienden. Dan werd er gevraagd hoe vaak ze per dag achter het scherm zitten. Hierbij zijn gsm, TV, laptop inbegrepen. Er werd ook gevraagd of de geïnterviewden al eens games voor buiten gespeeld hadden en wat hun ervaringen hierbij waren. Als laatste vraag werd gevraagd of ze zich liever binnen of buiten bevinden. 
 Na de interviews werd er onderzoek gedaan naar bestaande oplossingen via benchmarking. Via deze info kon er onderzocht worden welke technologieën de producten hiervoor gebruiken. Er werd ook onderzocht hoe de games gespeeld worden en hoe succesvol ze zijn. Er werden zeven producten onderzocht: geocaching, Pokémon GO, Ingress, Picoo, outdoor escape room, outdoor laser tag en GPS pong.
 
 ### Resultaten
-De interviews bevestigden dat jongeren te weinig bewegen. Dit komt doordat ze te veel achter het scherm zitten door bijvoorbeeld gebruik van sociale media, games en streaming diensten. Op school bewegen ze enkel voldoende tijdens de les lichamelijke opvoeding, maar dit is maar 1 dag per week. Tijdens de vakantie hebben ze ook niet voldoende beweging terwijl ze toch meer tijd hebben om te bewegen. Ze spenderen vooral hun tijd aan het bekijken van films en series, maar ook aan het afspreken met vrienden. Jongeren bevinden zich vooral binnen omdat er buiten niet veel te doen is. Toen gevraagd werd of ze al games voor buiten hadden gespeeld, kwam Pokémon Go naar boven, maar dit hadden ze niet lang gespeeld en het was ook al een tijdje geleden.
+De interviews bevestigden dat jongeren te weinig bewegen (report: bijlage 3.2). Dit komt doordat ze te veel achter het scherm zitten door bijvoorbeeld gebruik van sociale media, games en streaming diensten. Op school bewegen ze enkel voldoende tijdens de les lichamelijke opvoeding, maar dit is maar 1 dag per week. Tijdens de vakantie hebben ze ook niet voldoende beweging terwijl ze toch meer tijd hebben om te bewegen. Ze spenderen vooral hun tijd aan het bekijken van films en series, maar ook aan het afspreken met vrienden. Jongeren bevinden zich vooral binnen omdat er buiten niet veel te doen is. Toen gevraagd werd of ze al games voor buiten hadden gespeeld, kwam Pokémon Go naar boven, maar dit hadden ze niet lang gespeeld en het was ook al een tijdje geleden.
 
 Via benchmarking werd gevonden dat veel games een scherm gebruiken wat kan zorgen voor overmatig schermgebruik. Het beste zou dus zijn als er een product wordt ontworpen waarbij er weinig scherm of smartphone gebruikt wordt.
 Als technologie wordt vaak de GPS gebruikt om voorwerpen te zoeken of om je te
@@ -99,13 +99,13 @@ De protocols en reports van de description fase zijn te vinden in de bijlage.
 De onderzoeken, samen met jongeren, helpen ons verder een beeld te geven aan de oplossing. Zo werd er voornamelijk dieper ingegaan op de vorm en de verschillende functies van de controller. Ook of het concept wel in de smaak viel bij de jongeren.
 
 ### Materiaal & methoden
-Er werden twee concept testen uitgevoerd telkens met 4 respondenten. Iedere teamgenoot testte 2 personen. De eerste test was om na te gaan of de vorm / het comfort van de controller goed is en of het esthetisch mooi oogde. Dit werd gedaan door de 6 verschillende ontwerpen te prototypen in karton of foam. 2 prototypes hadden telkens dezelfde vorm, maar andere afmetingen. Na diverse vragen en testen, konden we de beste vorm / afmetingen eruit halen.
+Er werden twee concept testen uitgevoerd telkens met 4 respondenten. Het protocol is te lezen in bijlage 4.1. Iedere teamgenoot testte 2 personen. De eerste test was om na te gaan of de vorm / het comfort van de controller goed is en of het esthetisch mooi oogde. Dit werd gedaan door de 6 verschillende ontwerpen te prototypen in karton of foam. 2 prototypes hadden telkens dezelfde vorm, maar andere afmetingen. Na diverse vragen en testen, konden we de beste vorm / afmetingen eruit halen.
 
 De tweede test had als doel om het concept en de verschillende functies te bekijken. Zo konden we ontdekken of de controller en/of het spel moest geoptimaliseerd worden voor een eenvoudiger verloop. Er werden 3 prototypes gecreëerd in karton, deze hadden de vorm van concept test 1. De functies, gemaakt uit papier, werden telkens op andere locaties geplaatst. 
 Er werd getest volgens kwalificatie, confrontatie, appreciatie, simulatie en reflectie. Bij de kwalificatie onderzochten we of de achtergrond van de respondent wel paste bij het project. Deel 2, de confrontatie, werd uitgevoerd in 2 fases. Fase 1 was voor een eerste reactie op het concept en fase 2 op de controller. In de simulatie fase werden er 3 scenario’s uitgevoerd, zo konden we ontdekken of alles wel duidelijk was. En als laatste volgde er een conclusie om de belangrijkste inzichten te overlopen.  
 
 ### Resultaten
-Bij concept test 1 konden we snel besluiten dat een cilindrische vorm geen goede keuze was. De andere 2 vormen waren de favorieten. Maar als we dan dieper ingegaan zijn op waarden, was A de favoriet. Deze controller heeft een dikte van 3 cm. Tijdens het onderzoek gaven de jongeren wel nog enkele tips om tot een beter ontwerp te komen. Afgeronde hoeken en de inkeping voor de vinger moet diep genoeg zijn.
+Bij concept test 1 konden we snel besluiten dat een cilindrische vorm geen goede keuze was. De andere 2 vormen waren de favorieten. Maar als we dan dieper ingegaan zijn op waarden, was A de favoriet. Deze controller heeft een dikte van 3 cm. Tijdens het onderzoek gaven de jongeren wel nog enkele tips om tot een beter ontwerp te komen. Afgeronde hoeken en de inkeping voor de vinger moet diep genoeg zijn (analyse: bijlage 4.2)
 <table border="1">
     <tr>
         <td>A</td>
@@ -119,7 +119,7 @@ Bij concept test 1 konden we snel besluiten dat een cilindrische vorm geen goede
     </tr>
 </table>
 
-Uit concept test 2 werd er veel informatie gehaald. Het concept viel in de smaak, zeker als activiteiten voor met vrienden. Vooral voor het gevoel dat er iemand achter jou zit en de druk om weg te lopen.
+Uit concept test 2 werd er veel informatie gehaald. Het concept viel in de smaak, zeker als activiteiten voor met vrienden. Vooral voor het gevoel dat er iemand achter jou zit en de druk om weg te lopen (analyse: bijlage 4.2).
 
 Controller 3 (rechts op de onderstaande figuur) was opvallend de favoriet van alle respondenten. De aan/uit-knop, de schermen voor tijd en afstand waren allemaal duidelijk en stonden op de juiste plaats. De trillingssensor was alleen duidelijk met wat uitleg. De functie van de lampjes voor de richting was duidelijk, maar enkele hadden de voorkeur om dit aan de voorkant te plaatsen. De lampen die aangegeven welke rol je speelt waren niet bij iedereen meteen duidelijk, dus in de plaats van J en V, eventueel Jager en Vluchter voluit schrijven. 
 Er werden ook nog enkele tips meegegeven door de jongeren om tot een beter concept/design te komen. De aan/uit-knop niet laten uitsteken, zodat wanneer je tegen ergens stoot die niet per ongeluk wordt uitgelegd. Het product zouden ze kopen, maar dit is natuurlijk afhankelijk van de prijs. En het eventueel overwegen om er een app aan te koppelen, voor gebruikersgemak en informatievoorziening. 
@@ -178,6 +178,8 @@ Om tot een finaal eindwerk te komen, werden er 3 deelopdrachten uitgevoerd in he
 | 6     | 13-05-2024 t.e.m  24-05-2024   | filmen en monteren            | explainer video                                 |
 | 7     | 13-05-2024 t.e.m  24-05-2024   | rapporteren                   | finaal rapport en presentatie                   |
 
+Tijdens het tweede semester worden 3 grote fasen doorlopen. We begonnen het semester met een reflectie op het eerste semester, hieruit hebben we veel feedback overgenomen. Dan zijn we gestart met de fysieke ergonomie en antroprometrie van de controller en band. Bij de vierde deelopdracht draait alles rond gebruiksvriendelijkheid en user experience. In deze opdracht zijn 2 fasen. Eerst bepaalden we 10 heurestieken van Nielsen, en deze werden dan beoordeeld door medestudenten. Dan volgden gebruikerstesten
+
 ## Deelopdracht 3
 ### Doelstellingen
 In het kader van onze eerste opdracht van het tweede semester hebben we ons gericht op het optimaliseren van de fysieke ergonomie van onze controller en band. Met de gekregen feedback van het eerste semester hebben we ervoor gekozen om een band rond de arm toe te voegen aan ons ontwerp. Zo kunnen de jongeren voluit spelen en lopen tijdens het spel. Om dit allemaal te bereiken, hebben we verschillende maten in kaart gebracht. Deze maten zijn de handlengte en -breedte, de elleboog-hand lengte en de lengte van de vingers. Voor alle maten hebben we gekozen voor de ontwerpstrategie: design for the mean / design for all. Dit ontwerptype is voor het gemiddelde van de populatie, van 10-15 jaar, zo hopen we een controller te creëren die voor de meeste spelers een optimale gebruikerservaring biedt. Voor het jachtspel is het van belang dat de controller conmfortabel ligt. Dit vergemakkelijkt ook de productie en distributie van het product.
@@ -217,11 +219,11 @@ Om het uiterlijk van de band te bepalen, hebben we eerst aan benchmarking gedaan
     </tr>
 </table>
 ### Methoden
-De user testen worden uitgevoerd met 5 respondenten. De respondenten hebben leeftijden tussen 10 en 15 jaar. Als extra hebben we ervoor gekozen om een volwassene toe te voegen, zo wanneer het kind eens met zijn ouder wil spelen, weten we of dit model ook past voor hen.
+De user testen worden uitgevoerd met 5 respondenten (protocol: bijlage 5.1) . De respondenten hebben leeftijden tussen 10 en 15 jaar. Als extra hebben we ervoor gekozen om een volwassene toe te voegen, zo wanneer het kind eens met zijn ouder wil spelen, weten we of dit model ook past voor hen.
 
 De testen draaiden vooral rond de spelervaring en ergonomie. Eerst wordt er een kwalificatie uitgevoerd, dan een simulatie en om te eindigen een reflectie/ conclusie. In de simulatie voeren de jongeren verschillende parcours uit, telkens met een andere controller. Eerst met controller, dan met controller en band. Ook vragen we hier of ze eens informatie willen aflezen van de controller, zo kunnen we zien of de jongere liever de informatie horizontaal of verticaal heeft op de controller. In deze fase moet er goed geobserveerd worden, zo kan er feedback verzamelt worden. Als laatste volgt er een reflectie, hier vragen we achter hun gebruikerservaring en welke controller uitsprong. Ze kunnen dan ook tips meegeven om het ontwerp te optimaliseren.
 ### Resultaten
-Na de testen bleek dat de controller met de afmetingen van de gemiddelde waarde niet de favoriet was, maar de controller met éénmaal de standaardafwijking kleiner dan die waarde. Ook de volwassene, die buiten de doelgroep zat, koos voor deze afmetingen. Er blijken dus geen grote verschillen te zitten tussen de verschillende leeftijden. Bij het vrouwelijk geslacht was duidelijk controller 3 de favoriet. Bij het mannelijk geslacht waren controller 1 en 3 de favorieten. Na de testen viel op wat voor invloed de band had, het zorgde duidelijk voor wat meer comfort en bewegingsvrijheid tijdens het spelverloop. Iets waar rekening mee gehouden moet worden, is het aflezen van informatie. Opvallend is wanneer het was enkel met de controller in hun handen, lazen ze de informatie verticaal, en wanneer dit met de controller en band was, lazen ze de informatie horizontaal. Voor de band waren er wel wat zaken die nog beter konden, bijvoorbeeld de stof die strakker moet zitten. Ook zou de band instelbaar moeten zijn zodat die rond de mouw van een jas kan geplaatst worden, wanneer je bijvoorbeeld in de winter speelt.
+Na de testen bleek dat de controller met de afmetingen van de gemiddelde waarde niet de favoriet was, maar de controller met éénmaal de standaardafwijking kleiner dan die waarde. Ook de volwassene, die buiten de doelgroep zat, koos voor deze afmetingen. Er blijken dus geen grote verschillen te zitten tussen de verschillende leeftijden. Bij het vrouwelijk geslacht was duidelijk controller 3 de favoriet. Bij het mannelijk geslacht waren controller 1 en 3 de favorieten. Na de testen viel op wat voor invloed de band had, het zorgde duidelijk voor wat meer comfort en bewegingsvrijheid tijdens het spelverloop. Iets waar rekening mee gehouden moet worden, is het aflezen van informatie. Opvallend is wanneer het was enkel met de controller in hun handen, lazen ze de informatie verticaal, en wanneer dit met de controller en band was, lazen ze de informatie horizontaal. Voor de band waren er wel wat zaken die nog beter konden, bijvoorbeeld de stof die strakker moet zitten. Ook zou de band instelbaar moeten zijn zodat die rond de mouw van een jas kan geplaatst worden, wanneer je bijvoorbeeld in de winter speelt. Alle resultaten zijn te vinden in het report (bijlage 5.2).
 <table border="1">
     <tr>
         <td>gebruikerstest</td>
@@ -232,7 +234,7 @@ Na de testen bleek dat de controller met de afmetingen van de gemiddelde waarde 
         <td><img src="afbeeldingen deelopdracht 3/arm volwassen.png" width="100%"/></td>
     </tr>
 </table>
-### Conclusies & implicaties
+### Conlusies & implicaties 
 Design requierements:
 
 1. De afmetingen van controller 3 worden gebruikt.
@@ -244,7 +246,7 @@ Design requierements:
 ### Doelstellingen
 Het doel van de vierde deelopdracht is om ons ontwerp te onderzoeken op gebruiksvriendelijkheid en user experience. Dit werd gedaan in twee delen. Als eerste hebben medestudenten onderzocht of het ontwerp voldoet aan de heuristieken van Nielsen. En bij het tweede onderzoek werden er gebruikerstesten uitgevoerd.
 ### Materiaal
-Via een figma template werden er vijf controllers ontworpen waarbij de functies telkens op en ander plaats staan. Enkel op de achterkant van de controller werd er niets geplaatst. De controllers bevatten volgende onderdelen:
+Via een figma template (bijlage 6.3) werden er vijf controllers ontworpen waarbij de functies telkens op en ander plaats staan. Enkel op de achterkant van de controller werd er niets geplaatst. De controllers bevatten volgende onderdelen:
 1. Logo van de batterij, die de batterijstatus aangeeft
 2. Een pauze knop om het spel op pauze te zetten bij een noodgeval
 3. Leds die aangeven welke rol in het spel je hebt (jager of vluchter)
@@ -273,7 +275,7 @@ Bepaalde controllers hebben tweemaal hetzelfde onderdeel / functie, dus wanneer 
 Bepaalde controllers hebben tweemaal hetzelfde onderdeel / functie, dit werd bedacht voor wanneer je de controller vasthoudt in je hand. Als je een functie bedekt met je hand, kan je nog steeds de funtie zien aan de andere kant van de controller. Zo is er ook geen verschil voor mensen die linkshandig of rechtshandig zijn.
 
 ### Methoden
-De expert reviews worden uitgevoerd met 2 respondenten. De respondenten hebben leeftijd tussen 19-21 jaar.
+De expert reviews worden uitgevoerd met 2 respondenten (protocol: bijlage 6.1). De respondenten hebben leeftijd tussen 19-21 jaar.
 Het belangrijkste aspect van de expert revieuws is de simulatie. Hierbij wordt de bruikbaarheid van het product geëvalueerd aan de hand van 'de 10 Heuristieken van Nielsen'. Dit werd aangemaakt via een template die op het Miro bord te vinden is. In deel 3 van het expert review kunnen de experts nog extra feedback geven en worden de belangrijkste resultaten eens overlopen. Ook wordt aan de medestudenten gevraagd hoe we de gevonden problemen kunnen oplossen. 
 
 De gebruikerstesten worden uitgevoerd met 4 respondenten. De respondenten hebben leeftijden tussen 10 en 16 jaar.
@@ -287,12 +289,13 @@ Eerst wordt er een kwalificatie uitgevoerd om de algemene gegevens van de gebrui
         <td><img src="afbeeldingen deelopdracht 4/gebruikerstest.jpg" width="30%"/></td>                                             
     </tr>
 </table>
+
 ### Resultaten
 Bij de expert reviews viel het vele kleurengebruik meteen op, en was zeker een goede keuze. De symbolen / figuren waren voor een groot deel duidelijk, echter ging er een voorkeur uit naar het lopend mannetje of het hert en het mannetje met de werper voor de rol-aanduiding. De verrekijker was wel geen goede keuze. Daarnaast werd er ook nog de tip gegeven om bijvoorbeeld een radar te gebruiken, in plaats van de richtingsaanwijzers. Door eerst een expert review te doen en daarna een gebruikerstest werd de controller versie 5 met radar nog toegevoegd in deze deelopdracht. De handleiding van de controller valt niet direct in onze doelgroep omdat dit eerder door de ouders gelezen zal worden en zo meegegeven worden aan het kind.
 
 Bij de gebruikerstesten was over het algemeen Controller 1 de favoriet van de respondenten, voornamelijk vanwege het uiterlijk, de symmetrie en de algemene lay-out van de functies. Hoewel de meeste functies over het algemeen duidelijk zijn na uitleg, zo zijn de simulaties iedere keer perfect uitgevoerd, zijn er toch enkele punten van zorg, zoals de duidelijkheid van de richtingaanwijzers en de rol-aanduiding. Indien er richtingaanwijzers worden toegevoegd aan het ontwerp, moeten er hier zeker pijltjes aan toegevoegd worden. De voorkeur voor de radar of voor de richtingaanwijzers is fifty-fifty. Maar wanneer we de taakanalyse toepasten op ons concept, merkten we dat de richtingsaanwijzers niet simpel gingen zijn wanneer het spel met meerdere speler ging gespeeld worden. Hierdoor hebben we beslist voor de radar te gaan.  Bij de rol-aanduiding geven sommige respondenten de voorkeur aan tekstuele aanduidingen boven symbolen, terwijl anderen liever symbolen hebben. Echter na het grondig bekijken van de resultaten, waren de symbolen van het lopende mannetje en het mannetje met de werper degene die er uitsprongen. 
 Ook is er een consistente voorkeur voor plaatsing van bepaalde functies, zoals het hebben van de batterij aan de zijkant en het vermijden van te drukke lay-outs. Controller 1 zijn lay-out wordt overgenomen, behalve de zijkanten. De aan/uit-knop en de pauze knop mogen samen staan aan 1 kant, en aan de andere kant de rolaanduiding met de batterijstatus. Ook heeft controller 1 symmetrie in zijn lay-out, maar vanwege de grootte van de controller, zijn 2 radars helaas niet mogelijk. Hierdoor werd beslist om de symmetrie op een andere manier weer te geven.  
-Controller 1 werd ook gekozen door zijn leuke estethiek, dus er moet zeker wat kleur zitten in het ontwerp. Echter de controller zelf mag in een donkere kleur zijn. De kleur wit moeten we vermijden vanwege eventuele verkleuring door vuil. 
+Controller 1 werd ook gekozen door zijn leuke estethiek, dus er moet zeker wat kleur zitten in het ontwerp. Echter de controller zelf mag in een donkere kleur zijn. De kleur wit moeten we vermijden vanwege eventuele verkleuring door vuil. Alle resultaten zijn te lezen in het report (bijlage 6.2)
 
 ### Conclusies & implicaties 
 Design requirements:
@@ -307,7 +310,7 @@ Design requirements:
 ### Doelstellingen
 Het doel van de opdracht is het verfijnen van het interactie-ontwerp en optimaliseren van de user journey. Er wordt hier naartoe gewerkt door het uitvoeren van een hiërarchische taakanalyse en het analyseren van gebruikerstesten.
 ### Materiaal
-Het eerste deel van de opdracht, de hiërarchische taakanalyse, wordt uitgevoerd in een Miro template. Vervolgens werden een Protopie templates gemaakt met het uiterlijk dat bekomen werd uit deelopdracht 4. De templates bevat de verschillende interacties die noodzakelijk zijn voor een spelverloop. Aangezien er soms meerdere interactie mogelijkheden zijn voor een bepaalde functie, werden er 2 versies gemaakt. Ook telkens een versie voor de jager en 1 voor de vluchter.
+Het eerste deel van de opdracht, de hiërarchische taakanalyse, wordt uitgevoerd in een Miro template. Vervolgens werden een Protopie templates (bijlage 7.3) gemaakt met het uiterlijk dat bekomen werd uit deelopdracht 4. De templates bevat de verschillende interacties die noodzakelijk zijn voor een spelverloop. Aangezien er soms meerdere interactie mogelijkheden zijn voor een bepaalde functie, werden er 2 versies gemaakt. Ook telkens een versie voor de jager en 1 voor de vluchter.
 <table border="1">
     <tr>
         <td>controller layout</td>
@@ -317,11 +320,11 @@ Het eerste deel van de opdracht, de hiërarchische taakanalyse, wordt uitgevoerd
     </tr>
 </table>
 ### Methoden
-Via de hiërarchische taakanalyse worden de verschillende interactie keuzes in kaart gebracht.
+Via de hiërarchische taakanalyse worden de verschillende interactie keuzes in kaart gebracht. De taakanalyse kan je vinden op miro (bijlage 1)
 
-De gebruikerstesten worden uitgevoerd met 4 respondenten tussen 10-16 jaar. Per test spelen 2 respondenten het jachtspel, hierbij is de ene respondent de jager en de andere de vluchter. Het spel wordt dus gesimuleerd. Hierbij observeren we hun interacties met de verschillende versies, en achteraf wordt er feedback verzamelt. Als laatste wordt er een reflectie uitgevoerd met enkele open vragen.
+De gebruikerstesten worden uitgevoerd met 4 respondenten tussen 10-16 jaar (protocol: bijlage 7.1) . Per test spelen 2 respondenten het jachtspel, hierbij is de ene respondent de jager en de andere de vluchter. Het spel wordt dus gesimuleerd. Hierbij observeren we hun interacties met de verschillende versies, en achteraf wordt er feedback verzamelt. Als laatste wordt er een reflectie uitgevoerd met enkele open vragen.
 ### Resultaten
-
+Alle resultaten zijn te vinden in het report (bijlage 7.2).
 ### Conclusies & implicaties 
 Design requirements
 ## Algemene conclusie
