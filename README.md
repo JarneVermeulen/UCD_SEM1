@@ -183,7 +183,7 @@ Tijdens het tweede semester worden 3 grote fasen doorlopen. We begonnen het seme
 ## Deelopdracht 3
 ### Doelstellingen
 In het kader van onze eerste opdracht van het tweede semester hebben we ons gericht op het optimaliseren van de fysieke ergonomie van onze controller en band. Met de gekregen feedback van het eerste semester hebben we ervoor gekozen om een band rond de arm toe te voegen aan ons ontwerp. Zo kunnen de jongeren voluit spelen en lopen tijdens het spel. Om dit allemaal te bereiken, hebben we verschillende maten in kaart gebracht. Deze maten zijn de handlengte en -breedte, de elleboog-hand lengte en de lengte van de vingers. Voor alle maten hebben we gekozen voor de ontwerpstrategie: design for the mean / design for all. Dit ontwerptype is voor het gemiddelde van de populatie, van 10-15 jaar, zo hopen we een controller te creëren die voor de meeste spelers een optimale gebruikerservaring biedt. Voor het jachtspel is het van belang dat de controller conmfortabel ligt. Dit vergemakkelijkt ook de productie en distributie van het product. Hiervoor hebben een analyse gedaan van data op de site van dinbelg.be en dined.io.tudelft.nl.
-Voor deze opdracht hadden we meerdere onderzoeksvragen. Zoals:
+Voor deze opdracht hadden we meerdere onderzoeksvragen.
 -    Hoe beleven de jongeren de verschillende prototypes tijdens een spelervaring?
 -    Hoe verschilt de ergonomie van de controller en band tussen jongeren van verschillend        leeftijden, en eventueel van een volwassene?
 -    Hoe kunnen we de controller en band optimaliseren voor een optimale gebruikerservaring?
