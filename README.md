@@ -220,7 +220,9 @@ Om het uiterlijk van de band te bepalen, hebben we eerst aan benchmarking gedaan
         <td><img src="afbeeldingen deelopdracht 3/velcro.png" width="100%"/></td>
     </tr>
 </table>
-### Methoden 
+
+### Methoden
+ 
 De user testen worden uitgevoerd met 5 respondenten (protocol: bijlage 5.1) . De respondenten hebben leeftijden tussen 10 en 15 jaar. Als extra hebben we ervoor gekozen om een volwassene toe te voegen, zo wanneer het kind eens met zijn ouder wil spelen, weten we of dit model ook past voor hen.
 
 De testen draaiden vooral rond de spelervaring en ergonomie. Eerst wordt er een kwalificatie uitgevoerd, dan een simulatie en om te eindigen een reflectie/ conclusie. In de simulatie voeren de jongeren verschillende parcours uit, telkens met een andere controller. Eerst met controller, dan met controller en band. Ook vragen we hier of ze eens informatie willen aflezen van de controller, zo kunnen we zien of de jongere liever de informatie horizontaal of verticaal heeft op de controller. In deze fase moet er goed geobserveerd worden, zo kan er feedback verzamelt worden. Als laatste volgt er een reflectie, hier vragen we achter hun gebruikerservaring en welke controller uitsprong. Ze kunnen dan ook tips meegeven om het ontwerp te optimaliseren.
