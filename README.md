@@ -1,5 +1,5 @@
 # Jachtspel
-Jachtspel is een spel voor jongere waarbij jagers verschillende vluchters moeten pakken. 
+Jachtspel is een spel voor jongeren waarbij jagers verschillende vluchters moeten pakken. 
 
 G11: Jarne Jan Vermeulen; Aline Tijtgat
 
