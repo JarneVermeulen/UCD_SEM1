@@ -46,6 +46,18 @@ De voorwaarden omvatten dus inclusiviteit en budgettair haalbaar, zodat ons proj
 | 10    | 11-12-2023 t.e.m. 13-12-2023   | 2de fase prototypes           | verschillende prototypes met plaatsing features |
 | 11    | 18-12-2023 t.e.m. 26-12-2023   | testen 2de prototypes         | plaats features vastleggen                      |
 
+| fase 2| periode                        | actie                         | resultaat                                       |
+|-------|--------------------------------|-------------------------------|-------------------------------------------------|
+| 1     | 12-02-2024 t.e.m. 19-02-2024   | reflecteren semester 1        | reflectie en verslag                            |
+| 2     | 19-02-2024 t.e.m. 04-04-2024   | fysieke ergonomie             | vorm en afmetingen controller en band           |
+| 3     | 18-03-2024 t.e.m. 18-03-2024   | heurestieken, user experience | gebruiksvriendelijk en esthetisch ontwerp       |
+| 4     | 15-04-2024 t.e.m. 13-04-2024   | taakanalyse, interactiekeuzes | interactie-ontwerp                              |
+| 5     | 06-05-2024 t.e.m. 13-05-2024   | prototypen                    | finaal ontwerp                                  |
+| 6     | 13-05-2024 t.e.m  24-05-2024   | filmen en monteren            | explainer video                                 |
+| 7     | 13-05-2024 t.e.m  24-05-2024   | rapporteren                   | finaal rapport en presentatie                   |
+
+Tijdens het tweede semester worden 3 grote fasen doorlopen. We begonnen het semester met een reflectie op het eerste semester, hieruit hebben we veel feedback overgenomen. Dan zijn we gestart met de fysieke ergonomie en antroprometrie van de controller en band. Bij de vierde deelopdracht draait alles rond gebruiksvriendelijkheid en user experience. In deze opdracht zijn 2 fasen. Eerst bepaalden we 10 heurestieken van Nielsen, en deze werden dan beoordeeld door medestudenten. Dan volgden gebruikerstesten voor een geoptimaliseerd ontwerp. De laatste deelopdracht bestaat ook uit twee delen. Eerste deel is een taakanalyse, en dan gebruikerstesten. Zo is deze opdracht gefocust op de user journey, human-product interaction flows en interaction modalities. Op het einde van het semester werkten we naar een finaal eindwerk toe. Dit is het maken van een finaal prototype en een explainer video. 
+
 
 Tijdens het eerste semester werden een aantal fasen doorlopen. Eerst werd het probleem gedefinieerd. Dit werd gedefinieerd als "Hoe kunnen we ervoor zorgen dat kinderen meer bewegen door naar buiten te gaan met behulp van slimme technologie?” Daarna werd voldoende tijd vrijgemaakt om informatie te verzamelen over de gebruikers en bestaande oplossingen. Dan werd de informatie geanalyseerd om tot een “how might we” te komen. Zo werd de onderzoeksvraag opgesteld: Hoe kunnen we jongeren meer laten bewegen met behulp van een soort controller waarbij er weinig schermgebruik nodig is? Door deze vraag op te stellen konden er design requirements opgesteld worden. Via deze design requirements konden ideeën bedacht worden. Uiteindelijk werd er via een matrix evaluation één concept gekozen, het jachtspel. 
 Na deze fase werden er groepen gemaakt van twee personen. Als eerste werd het storyboard opgesteld om een goed beeld te krijgen van de oplossing. Hierna werden twee waves van prototypes gemaakt en getest met de gebruikers. De eerste wave om de vorm van de controller te bepalen en de tweede wave om features verder te ontwikkelen. 
@@ -164,21 +176,7 @@ Het concept viel duidelijk in de smaak bij de jongeren. Maar om dit concept voor
 
 # Semester 2
 ## Samenvatting
-In het tweede semester hebben we ons gericht op het afronden van ons eindwerk door middel van het uitvoeren van drie deelopdrachten. Deze taken waren gebaseerd op de structuur die we in het eerste semester hadden ontwikkeld, waarbij we ook gebruik hebben gemaakt van de ontvangen feedback. Gedurende het hele semester lag de nadruk op het verbeteren en verfijnen van het ontwerp, met als voornaamste doel het creëren van de meest optimale gebruikerservaring en -traject voor de doelgroep, namelijk jongeren.
-
-
-## Methdologie
-| fase 2| periode                        | actie                         | resultaat                                       |
-|-------|--------------------------------|-------------------------------|-------------------------------------------------|
-| 1     | 12-02-2024 t.e.m. 19-02-2024   | reflecteren semester 1        | reflectie en verslag                            |
-| 2     | 19-02-2024 t.e.m. 04-04-2024   | fysieke ergonomie             | vorm en afmetingen controller en band           |
-| 3     | 18-03-2024 t.e.m. 18-03-2024   | heurestieken, user experience | gebruiksvriendelijk en esthetisch ontwerp       |
-| 4     | 15-04-2024 t.e.m. 13-04-2024   | taakanalyse, interactiekeuzes | interactie-ontwerp                              |
-| 5     | 06-05-2024 t.e.m. 13-05-2024   | prototypen                    | finaal ontwerp                                  |
-| 6     | 13-05-2024 t.e.m  24-05-2024   | filmen en monteren            | explainer video                                 |
-| 7     | 13-05-2024 t.e.m  24-05-2024   | rapporteren                   | finaal rapport en presentatie                   |
-
-Tijdens het tweede semester worden 3 grote fasen doorlopen. We begonnen het semester met een reflectie op het eerste semester, hieruit hebben we veel feedback overgenomen. Dan zijn we gestart met de fysieke ergonomie en antroprometrie van de controller en band. Bij de vierde deelopdracht draait alles rond gebruiksvriendelijkheid en user experience. In deze opdracht zijn 2 fasen. Eerst bepaalden we 10 heurestieken van Nielsen, en deze werden dan beoordeeld door medestudenten. Dan volgden gebruikerstesten voor een geoptimaliseerd ontwerp. De laatste deelopdracht bestaat ook uit twee delen. Eerste deel is een taakanalyse, en dan gebruikerstesten. Zo is deze opdracht gefocust op de user journey, human-product interaction flows en interaction modalities. Op het einde van het semester werkten we naar een finaal eindwerk toe. Dit is het maken van een finaal prototype en een explainer video. 
+In het tweede semester hebben we ons gericht op het afronden van ons eindwerk door middel van het uitvoeren van drie deelopdrachten. Deze opdrachten waren gebaseerd op de structuur die we in het eerste semester hadden ontwikkeld, waarbij we ook gebruik hebben gemaakt van de ontvangen feedback. Gedurende het hele semester lag de nadruk op het verbeteren en verfijnen van het ontwerp, met als voornaamste doel het creëren van de meest optimale gebruikerservaring en -traject voor de doelgroep, namelijk jongeren.
 
 ## Deelopdracht 3
 ### Doelstellingen
