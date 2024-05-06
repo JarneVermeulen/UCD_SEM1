@@ -193,13 +193,13 @@ Aan de hand van de bekomen data creëerden we verschillende prototypes. De contr
 
 <table border="1">
  <tr>
-        <td>afmeting controller</td>
+        <td>afmetingen controller</td>
         <td>handlengte</td>
         <td>handbreedte</td>
         <td>vingerlengte</td>
     </tr>
     <tr>
-        <td><img src="afbeeldingen deelopdracht 3/afmetingen controller.png" width="100%"/></td>
+        <td><img src="afbeeldingen deelopdracht 3/b+h controller.png" width="100%"/></td>
         <td><img src="afbeeldingen deelopdracht 3/handlengte.jpg" width="100%"/></td>
         <td><img src="afbeeldingen deelopdracht 3/handbreedte.jpg" width="100%"/></td>
         <td><img src="afbeeldingen deelopdracht 3/afmeting vinger.png" width="100%"/></td>
