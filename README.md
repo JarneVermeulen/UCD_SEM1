@@ -326,11 +326,23 @@ Bij het ontwerpen werd er rekening gehouden met de "gulfs of execution" en "gulf
 ### Methoden
 Via de hiërarchische taakanalyse worden de verschillende interactie keuzes in kaart gebracht. De taakanalyse kan je vinden op miro (bijlage 1)
 
-De gebruikerstesten worden uitgevoerd met 4 respondenten tussen 10-16 jaar (protocol: bijlage 7.1) . Per test spelen 2 respondenten het jachtspel, hierbij is de ene respondent de jager en de andere de vluchter. De respondenten doen dus role playing, en overlopen hun volledige user journey. Hierbij observeren we hun interacties met de verschillende versies, en achteraf wordt er feedback verzamelt. Als laatste wordt er een reflectie uitgevoerd met enkele open vragen.
+De gebruikerstesten worden uitgevoerd met 4 respondenten tussen 10-16 jaar (protocol: bijlage 7.1) . Per test spelen 2 respondenten het jachtspel, hierbij is de ene respondent de jager en de andere de vluchter. De respondenten doen dus role playing, en overlopen hun volledige user journey. Hierbij observeren we hun interacties met de verschillende versies, en achteraf wordt er feedback verzamelt. Als laatste wordt er een reflectie uitgevoerd met enkele open vragen. 
+
 ### Resultaten
+De testen van het jachtspel leverden waardevolle inzichten op over de ervaringen van de deelnemers. De respondenten hadden over het algemeen een positieve ervaring. Ze hadden meteen zin om het spel in het echt te spelen, na het uitvoeren van een simulatie. De simulaties werden telkens 2 keer correct uitgevoerd door de respondenten.
+Aan de hand van de MOSCOW-methode,deze is te vinden in de miro, zien we dat vele kwesties een prioriteit verdienen voor toekomstige ontwikkeling. Er zijn een aantal cruciale functies die absoluut aanwezig moeten zijn voor een bevredigende gebruikerservaring. Hier vallen onder andere de startknop, een duidelijke startsequentie ("5 4 3 2 1"), en een aftellende timer tijdens het spel. Deze elementen zijn essentieel voor het goed functioneren van het spel en zijn een absolute prioriteit. Dan zijn er enkele  belangrijke functies die wenselijk zijn maar niet essentieel. Dit omvat bijvoorbeeld het eindigen van het spel met een "game over" melding en een bijbehorend geluidssignaal. Hoewel belangrijk voor de volledigheid van de spelervaring, zijn deze aspecten niet zo cruciaal als de 'must have' elementen. Functies die leuk zouden zijn om te hebben, maar niet noodzakelijk zijn voor de kernfunctionaliteit van het spel. Dit kan bijvoorbeeld het toevoegen van een geluidssignaal bij het starten van het spel zijn, het vervangen van het "game over" scherm door alleen een melding zonder geluidssignaal, of het implementeren van een langere indruktijd voor het uitschakelen van de controller. Ook moet er opgelet worden dat volgende zaken niet in het ontwerp zitten. Een te korte tijd voor het bepalen van de rol van de speler of het niet reageren op het uitschakelen van de controller door slechts 1 keer te drukken.
 Alle resultaten zijn te vinden in het report (bijlage 7.2).
+
 ### Conclusies & implicaties 
-Design requirements
+Design requirements:
+- Aanwezigheid van een startknop.
+- Duidelijke startsequentie ("5 4 3 2 1").
+- Aftellende timer tijdens het spel.
+- "Game over" melding aan het einde van het spel.
+- Bijbehorend geluidssignaal bij het einde van het spel.
+- Optioneel: Geluidssignaal bij het starten van het spel.
+- Optioneel: Langere indruktijd voor het uitschakelen van de controller.
+- De voorgestelde interacties van de taakanalyse worden behouden
 
 ## Algemene conclusie
     
