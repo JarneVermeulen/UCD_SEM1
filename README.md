@@ -352,9 +352,11 @@ Design requirements:
 ### Design Requirements
 
 ### Finaal Prototype
-Render / grafisch verzorgd
+Door na alle deelopdrachten design requirements op te stellen kon een finaal prototype gemaakt worden. Hieruit kunnen we afleiden of het finaal prototype nu voldoet aan de wensen van de gebruikers. De band werd gemaakt uit ............... De omhuizing van de controller werd gemaakt uit PLA met de 3D printer. Aan de binnenkant werd een arduino geplaatst waaraan knoppen, leds en schermen verbonden zitten. Door dat niet alle elektronica in de controller kon werd deze dus iets dikker gemaakt. Door een arduino te gebruiken konden we het spel simuleren zoals het in het echt zou zijn. De arduino code is te vinden in de bijlage. 
 
 ### Kritische reflectie
+Bij de opdracht met de fysieke ergonomie kwam een kleine controller naar voor als favoriet. Dit zorgt voor problemen om alle onderdelen van elektronica in de controller te steken. De componenten die nu in ons finaal prototype zitten zijn dan ook niet alle onderdelen. Zo zou er nog een component moeten voorzien worden om de controllers te verbinden, een buzzer om een geluidstoon te maken en een plek in die controller voorzien zijn voor de batterij. 
+Hoe de controllers verbonden worden met elkaar is ook een probleem. Bluetooth werkt zeer goed om controllers te verbinden , maar dit werkt maar tot tien meter. Wifi zou een mogelijkheid zijn, maar aangezien het spel meestal in een bos zal gespeeld worden is er niet zeker of er daar wifi-verbinding zal zijn. 
 
 ## Bronnen
 1. De Morgen. (2018, 18 november). Meer dan 90 procent van Vlaamse kinderen beweegt te weinig: de situatie is problematisch [Artikel]
