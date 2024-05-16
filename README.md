@@ -359,7 +359,7 @@ Bij de opdracht met de fysieke ergonomie kwam een kleine controller naar voor al
 
 Hoe de controllers verbonden worden met elkaar is ook een probleem. Bluetooth werkt zeer goed om controllers te verbinden , maar dit werkt maar tot tien meter. Wifi zou een mogelijkheid zijn, maar aangezien het spel meestal in een bos zal gespeeld worden is er niet zeker of er daar wifi-verbinding zal zijn. Een mogelijke oplossing zou zijn via radiofrequentie aangezien die een groot bereik hebben. Een nadeel van radiofrequentie is interferentie met andere draadloze apparaten, maar dit zou geen problemen mogen geven in een bos.
 
-Iets waar we niet op ingezet hebben in ons project is veiligheid. Het spel wordt gespeeld in een bos, maar in principe kun je zover weglopen als je maar wil. Daarom zou er een maximum gebied mogen zijn waar de kinderen niet buiten mogen gaan. De controller zou bijvoorbeeld een signaal kunnen geven als ze zich te ver verwijderen van het startpunt.
+Iets waar we niet op ingezet hebben in ons project is veiligheid. Het spel wordt gespeeld in een bos, maar in principe kun je zover weglopen als je maar wil. Daarom zou er een maximum gebied moeten zijn waar de kinderen niet buiten mogen gaan. De controller zou bijvoorbeeld een signaal kunnen geven als ze zich te ver verwijderen van het startpunt.
 
 ## Bronnen
 1. De Morgen. (2018, 18 november). Meer dan 90 procent van Vlaamse kinderen beweegt te weinig: de situatie is problematisch [Artikel]
