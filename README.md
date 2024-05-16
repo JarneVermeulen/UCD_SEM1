@@ -22,30 +22,14 @@ De voorwaarden omvatten dus inclusiviteit en budgettair haalbaar, zodat ons proj
 
 
 ## Methdologie
-| fase  | periode: semester 1             | actie                         | resultaat                                       |
-|-------|--------------------------------|-------------------------------|-------------------------------------------------|
-| 1     | 4-10-2023                      | probleem definiëren           | probleem definitie                              |
-| 2     | 4-10-2023 t.e.m. 4-11- 2023    | informatie verzamelen         | informatie                                      |
-| 3     | 4-11-2023 t.e.m. 7-11-2023     | informatie analyseren         | how might we …                                  |
-| 4     | 7-11-2023                      | opstellen design requirements | design requirements                             |
-| 5     | 8-11-2023                      | ideegeneratie                 | verschillende ideeën                            |
-| 6     | 14-11-2023                     | idee kiezen                   | 1 concept                                       |
-| 7     | 22-11-2023                     | storyboard opstellen          | storyboard                                      |
-| 8     | 22-11-2023 t.e.m. 29-12-2023   | 1ste fase prototypes          | 3 verschillende prototypes qua vorm             |
-| 9     | 3-12-2023 t.e.m. 10-12-2023    | testen 1ste prototypes        | vorm controller                                 |                     
-| 10    | 11-12-2023 t.e.m. 13-12-2023   | 2de fase prototypes           | verschillende prototypes met plaatsing features |
-| 11    | 18-12-2023 t.e.m. 26-12-2023   | testen 2de prototypes         | plaats features vastleggen                      |
-
-| fase  | periode: semester 2            | actie                         | resultaat                                       |
-|-------|--------------------------------|-------------------------------|-------------------------------------------------|
-| 1     | 12-02-2024 t.e.m. 19-02-2024   | reflecteren semester 1        | reflectie en verslag                            |
-| 2     | 19-02-2024 t.e.m. 04-04-2024   | fysieke ergonomie             | vorm en afmetingen controller en band           |
-| 3     | 18-03-2024 t.e.m. 18-03-2024   | heurestieken, user experience | gebruiksvriendelijk en esthetisch ontwerp       |
-| 4     | 15-04-2024 t.e.m. 13-04-2024   | taakanalyse, interactiekeuzes | interactie-ontwerp                              |
-| 5     | 06-05-2024 t.e.m. 13-05-2024   | prototypen                    | finaal ontwerp                                  |
-| 6     | 13-05-2024 t.e.m  24-05-2024   | filmen en monteren            | explainer video                                 |
-| 7     | 13-05-2024 t.e.m  24-05-2024   | rapporteren                   | finaal rapport en presentatie                   |
-
+<table border="1">
+    <tr>
+        <td>methodologie</td>
+    </tr>
+    <tr>
+        <td><img src="finaal prototype/methodologie.png" width="100%"/></td>
+    </tr>
+</table>
 
 Gedurende het eerste semester hebben we verschillende fasen doorlopen. We begonnen met het definiëren van het probleem, wat zich concentreerde op het bevorderen van fysieke activiteit bij kinderen door middel van slimme technologie. Vervolgens hebben we uitgebreid onderzoek gedaan naar zowel de gebruikers als bestaande oplossingen, wat resulteerde in een diepgaande analyse en het formuleren van de onderzoeksvraag: "Hoe kunnen we jongeren aanmoedigen om meer te bewegen met een controller die minimale scherminteractie vereist?"
 Met deze vraag als leidraad, hebben we designvereisten opgesteld en verschillende ideeën gegenereerd. Uiteindelijk hebben we via een matrixevaluatie het concept van het jachtspel gekozen als meest veelbelovende optie. Daarna hebben we een storyboard ontwikkeld om een duidelijk beeld te krijgen van onze oplossing. Vervolgens hebben we twee iteraties van prototypes gemaakt en getest met de gebruikers. De eerste iteratie richtte zich op het bepalen van de vorm van de controller, terwijl de tweede iteratie gericht was op het verder ontwikkelen van functies.
@@ -353,6 +337,24 @@ Design requirements:
 
 ### Finaal Prototype
 Door na alle deelopdrachten design requirements op te stellen kon een finaal prototype gemaakt worden. Hieruit kunnen we afleiden of het finaal prototype nu voldoet aan de wensen van de gebruikers. De band werd gemaakt uit ............... De omhuizing van de controller werd gemaakt uit PLA met de 3D printer. Aan de binnenkant werd een arduino geplaatst waaraan knoppen, leds en schermen verbonden zitten. Door dat niet alle elektronica in de controller kon werd deze dus iets dikker gemaakt. Door een arduino te gebruiken konden we het spel simuleren zoals het in het echt zou zijn. De arduino code is te vinden in de bijlage. 
+<table border="1">
+    <tr>
+        <td>band buitenkant</td>
+        <td>band binnenkant</td>
+        <td>band rond arm</td>
+        <td>bovenkant controller</td>
+        <td>onderkant controller</td>
+        <td>band + controller</td>
+    </tr>
+    <tr>
+        <td><img src="finaal prototype/band buitenkant.jpg" width="100%"/></td>
+        <td><img src="finaal prototype/band binnenkant.jpg" width="100%"/></td>
+        <td><img src="finaal prototype/band rond arm.jpg" width="100%"/></td>
+        <td><img src="finaal prototype/bovenkant controller.jpg" width="100%"/></td>
+        <td><img src="finaal prototype/onderkant controller.jpg" width="100%"/></td>
+        <td><img src="finaal prototype/assemblage.jpg" width="100%"/></td>
+    </tr>
+</table>
 
 ### Kritische reflectie
 Bij de opdracht met de fysieke ergonomie kwam een kleine controller naar voor als favoriet. Dit zorgt voor problemen om alle onderdelen van elektronica in de controller te steken. De componenten die nu in ons finaal prototype zitten zijn dan ook niet alle onderdelen. Zo zou er nog een component moeten voorzien worden om de controllers te verbinden, een buzzer om een geluidstoon te maken en een plek in die controller voorzien zijn voor de batterij.
