@@ -336,7 +336,7 @@ Design requirements:
 ### Design Requirements
 
 ### Finaal Prototype
-Door na alle deelopdrachten design requirements op te stellen kon een finaal prototype gemaakt worden. Hieruit kunnen we afleiden of het finaal prototype nu voldoet aan de wensen van de gebruikers. De band werd gemaakt uit ............... De omhuizing van de controller werd gemaakt uit PLA met de 3D printer. Aan de binnenkant werd een arduino geplaatst waaraan knoppen, leds en schermen verbonden zitten. Door dat niet alle elektronica in de controller kon werd deze dus iets dikker gemaakt. Door een arduino te gebruiken konden we het spel simuleren zoals het in het echt zou zijn. De arduino code is te vinden in de bijlage. 
+Door na alle deelopdrachten design requirements op te stellen kon een finaal prototype gemaakt worden. Hieruit kunnen we afleiden of het finaal prototype nu voldoet aan de wensen van de gebruikers. De band werd gemaakt uit ............... De omhuizing van de controller werd gemaakt uit PLA met de 3D printer. Aan de binnenkant werd een arduino geplaatst waaraan knoppen, leds en schermen verbonden zitten. Door dat niet alle elektronica in de controller kon werd deze dus iets dikker gemaakt. Door een arduino te gebruiken konden we het spel simuleren zoals het in het echt zou zijn. De arduino code is te vinden in de bijlage 8. 
 <table border="1">
     <tr>
         <td>band buitenkant</td>
