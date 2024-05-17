@@ -416,6 +416,6 @@ Iets waar we niet op ingezet hebben in ons project is veiligheid. Het spel wordt
          7.3.3 Versie 2 (jager):  https://cloud.protopie.io/p/6181742c752c49676d6f63c7?handoff=true
      
          7.3.4 Versie 2 (vluchter): https://cloud.protopie.io/p/f5393db5d930e97091114264?handoff=true
-     8. finaal prototype
+  8. finaal prototype
 
-        8.1 arduino code: https://github.com/JarneVermeulen/arduino-controller/tree/main
+     8.1 arduino code: https://github.com/JarneVermeulen/arduino-controller/tree/main
