@@ -309,7 +309,7 @@ Het eerste deel van de opdracht, de hiërarchische taakanalyse, wordt uitgevoerd
     </tr>
 </table>
 
-Bij het ontwerpen werd er rekening gehouden met de "gulfs of execution" en "gulfs of evaluation". De "gulf of execution" kan optreden wanneer de spelers moeite hebben om de gewenste interacties uit te voeren tijden het spelen van jachtspel. Bijvoorbeeld een intuitieve bediening van de controller of duidelijk begrijpen welke acties moeten uitgevoerd worden. De gulf werd grotendeels verminderd door de hiërarchische taakanalyse. De "gulf of evaluation" treed op wanneer de spelers moeite hebben om de feedback van het spel te interpreteren en te beoordeln of deze overeenkomt met hun verwachtingen of doelen. Dus het uiteindelijk analyseren van de testen en het verzamelen van feedback zijn stappen om deze gulf te verminderen. 
+Bij het ontwerpen werd er rekening gehouden met de "gulfs of execution" en "gulfs of evaluation". De "gulf of execution" kan optreden wanneer de spelers moeite hebben om de gewenste interacties uit te voeren tijden het spelen van jachtspel. Bijvoorbeeld een intuitieve bediening van de controller of duidelijk begrijpen welke acties moeten uitgevoerd worden. De gulf werd grotendeels verminderd door de hiërarchische taakanalyse. De "gulf of evaluation" treed op wanneer de spelers moeite hebben om de feedback van het spel te interpreteren en te beoordelen of deze overeenkomt met hun verwachtingen of doelen. Dus het uiteindelijk analyseren van de testen en het verzamelen van feedback zijn stappen om deze gulf te verminderen. 
 ### Methoden
 Via de hiërarchische taakanalyse worden de verschillende interactie keuzes in kaart gebracht. De taakanalyse kan je vinden op miro (bijlage 1)
 
