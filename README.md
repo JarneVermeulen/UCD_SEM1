@@ -316,9 +316,9 @@ Via de hiërarchische taakanalyse worden de verschillende interactie keuzes in k
 De gebruikerstesten worden uitgevoerd met 4 respondenten tussen 10-16 jaar (protocol: bijlage 7.1) . Per test spelen 2 respondenten het jachtspel, hierbij is de ene respondent de jager en de andere de vluchter. De respondenten doen dus role playing, en overlopen hun volledige user journey. Hierbij observeren we hun interacties met de verschillende versies, en achteraf wordt er feedback verzamelt. Als laatste wordt er een reflectie uitgevoerd met enkele open vragen. 
 <table border="1">
     <tr>
-        <td>gebruikerstest</td>
-        <td>gebruikerstest</td>
-</tr>
+        <td>Gebruikerstest</td>
+        <td>Gebruikerstest</td>
+    </tr>
     <tr>
         <td><img src="afbeeldingen deelopdracht 5/gebruikerstest 1.jpg" width="100%"/></td>
         <td><img src="afbeeldingen deelopdracht 5/gebruikerstest 2.jpg" width="100%"/></td> 
