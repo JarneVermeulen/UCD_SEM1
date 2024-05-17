@@ -317,7 +317,7 @@ De gebruikerstesten worden uitgevoerd met 4 respondenten tussen 10-16 jaar (prot
 
 ### Resultaten
 De testen van het jachtspel leverden waardevolle inzichten op over de ervaringen van de deelnemers. De respondenten hadden over het algemeen een positieve ervaring. Ze hadden meteen zin om het spel in het echt te spelen, na het uitvoeren van een simulatie. De simulaties werden telkens 2 keer correct uitgevoerd door de respondenten.
-Aan de hand van de MOSCOW-methode,deze is te vinden in de miro, zien we dat vele kwesties een prioriteit verdienen voor toekomstige ontwikkeling. Er zijn een aantal cruciale functies die absoluut aanwezig moeten zijn voor een bevredigende gebruikerservaring. Hier vallen onder andere de startknop, een duidelijke startsequentie ("5 4 3 2 1"), en een aftellende timer tijdens het spel. Deze elementen zijn essentieel voor het goed functioneren van het spel en zijn een absolute prioriteit. Dan zijn er enkele  belangrijke functies die wenselijk zijn maar niet essentieel. Dit omvat bijvoorbeeld het eindigen van het spel met een "game over" melding en een bijbehorend geluidssignaal. Hoewel belangrijk voor de volledigheid van de spelervaring, zijn deze aspecten niet zo cruciaal als de 'must have' elementen. Functies die leuk zouden zijn om te hebben, maar niet noodzakelijk zijn voor de kernfunctionaliteit van het spel. Dit kan bijvoorbeeld het toevoegen van een geluidssignaal bij het starten van het spel zijn, het vervangen van het "game over" scherm door alleen een melding zonder geluidssignaal, of het implementeren van een langere indruktijd voor het uitschakelen van de controller. Ook moet er opgelet worden dat volgende zaken niet in het ontwerp zitten. Een te korte tijd voor het bepalen van de rol van de speler of het niet reageren op het uitschakelen van de controller door slechts 1 keer te drukken.
+Aan de hand van de MOSCOW-methode,deze is te vinden in de Miro, zien we dat vele kwesties een prioriteit verdienen voor toekomstige ontwikkeling. Er zijn een aantal cruciale functies die absoluut aanwezig moeten zijn voor een bevredigende gebruikerservaring. Hier vallen onder andere de startknop, een duidelijke startsequentie ("5 4 3 2 1"), en een aftellende timer tijdens het spel. Deze elementen zijn essentieel voor het goed functioneren van het spel en zijn een absolute prioriteit. Dan zijn er enkele  belangrijke functies die wenselijk zijn maar niet essentieel. Dit omvat bijvoorbeeld het eindigen van het spel met een "game over" melding en een bijbehorend geluidssignaal. Hoewel belangrijk voor de volledigheid van de spelervaring, zijn deze aspecten niet zo cruciaal als de 'must have' elementen. Functies die leuk zouden zijn om te hebben, maar niet noodzakelijk zijn voor de kernfunctionaliteit van het spel. Dit kan bijvoorbeeld het toevoegen van een geluidssignaal bij het starten van het spel zijn, het vervangen van het "game over" scherm door alleen een melding zonder geluidssignaal, of het implementeren van een langere indruktijd voor het uitschakelen van de controller. Ook moet er opgelet worden dat volgende zaken niet in het ontwerp zitten. Een te korte tijd voor het bepalen van de rol van de speler of het niet reageren op het uitschakelen van de controller door slechts 1 keer te drukken.
 Alle resultaten zijn te vinden in het report (bijlage 7.2).
 
 ### Conclusies & implicaties 
@@ -332,7 +332,6 @@ Design requirements:
 - De voorgestelde interacties van de taakanalyse worden behouden
 
 ## Algemene conclusie
-    
 ### Design Requirements
 
 ### Finaal Prototype
@@ -356,12 +355,18 @@ Na het opstellen van de design requirements, volgend op de afronding van alle de
     </tr>
 </table>
 
+!!RENDER!!
+
 ### Kritische reflectie
 Bij de evaluatie van de fysieke ergonomie voor de opdracht, kwam een kleine controller naar voren als favoriet. Dit brengt echter uitdagingen met zich mee bij het integreren van alle elektronische onderdelen in de controller. De huidige samenstelling van onze definitieve prototype omvat niet alle benodigde componenten. Er moet nog een component worden toegevoegd voor het verbinden van de controllers, een buzzer voor geluidssignalen, en ruimte voor een batterij in de controller moet worden voorzien.
 
 Het vinden van een geschikte methode om de controllers met elkaar te verbinden vormt ook een uitdaging. Hoewel Bluetooth efficiënt is voor het verbinden van controllers, heeft het een beperkt bereik van slechts tien meter. Wifi is een alternatief, maar in de bosrijke omgeving waar het spel meestal wordt gespeeld, is de beschikbaarheid van een wifi-verbinding onzeker. Een potentieel alternatief is het gebruik van radiofrequentie, vanwege het grotere bereik. Het nadeel hiervan is echter mogelijke interferentie met andere draadloze apparaten, maar dit zou in een bosrijke omgeving doorgaans geen problemen moeten veroorzaken.
 
 Veiligheid is een aspect waar we tot nu toe niet specifiek op hebben ingezet in ons project. Aangezien het spel in een bos wordt gespeeld, bestaat de mogelijkheid dat de spelers zich ver van het startpunt verwijderen. Om dit te voorkomen, zou er een maximumgebied moeten worden vastgesteld waarbinnen de kinderen moeten blijven. De controller zou bijvoorbeeld een signaal kunnen afgeven wanneer ze zich te ver van het startpunt verwijderen.
+
+Ook zou het betrekken van een grotere en meer gevarieerde steekproef van gebruikers in het testproces een bijgedrage leveren aan een meer uitgebalanceerd en representatief begrip van de behoeften en voorkeuren van de doelgroep. Hierdoor kunnen ontwerpbeslissingen worden geïnformeerd door directe feedback van potentiële gebruikers, wat de uiteindelijke bruikbaarheid en acceptatie van het product kan verbeteren.
+
+Het idee viel zeker in de smaak, maar om het concept duurzaam en aantrekkelijk te houden op de lange termijn, lijkt het noodzakelijk om het idee verder uit te breiden en te diversifiëren. Hoewel de initiële reacties van de jongeren positief waren, bestaat het risico dat de interesse in het spel na verloop van tijd afneemt als er geen nieuwe elementen of uitdagingen worden toegevoegd. Het bieden van meerdere variaties van het spel of het ontwikkelen van aanvullende functionaliteiten, zoals het koppelen van een app voor competitieve doeleinden onder vrienden, kan helpen om de betrokkenheid en opwinding rondom het concept te behouden. Dit zou niet alleen de speelervaring verrijken, maar ook de levensduur en relevantie van het product op de markt verlengen.
 
 ## Bronnen
 1. De Morgen. (2018, 18 november). Meer dan 90 procent van Vlaamse kinderen beweegt te weinig: de situatie is problematisch [Artikel]
