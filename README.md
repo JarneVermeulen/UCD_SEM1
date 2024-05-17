@@ -201,6 +201,7 @@ De user testen worden uitgevoerd met 5 respondenten (protocol: bijlage 5.1) . De
 De testen draaiden vooral rond de spelervaring en ergonomie. Eerst wordt er een kwalificatie uitgevoerd, dan een simulatie en om te eindigen een reflectie/ conclusie. In de simulatie voeren de jongeren verschillende parcours uit, telkens met een andere controller. Eerst met controller, dan met controller en band. Ook vragen we hier of ze eens informatie willen aflezen van de controller, zo kunnen we zien of de jongere liever de informatie horizontaal of verticaal heeft op de controller. In deze fase moet er goed geobserveerd worden, zo kan er feedback verzamelt worden. Als laatste volgt er een reflectie, hier vragen we achter hun gebruikerservaring en welke controller uitsprong. Ze kunnen dan ook tips meegeven om het ontwerp te optimaliseren.
 ### Resultaten
 Na de testen bleek dat de controller met de afmetingen van de gemiddelde waarde niet de favoriet was, maar de controller met éénmaal de standaardafwijking kleiner dan die waarde. Ook de volwassene, die buiten de doelgroep zat, koos voor deze afmetingen. Er blijken dus geen grote verschillen te zitten tussen de verschillende leeftijden. Bij het vrouwelijk geslacht was duidelijk controller 3 de favoriet. Bij het mannelijk geslacht waren controller 1 en 3 de favorieten. Na de testen viel op wat voor invloed de band had, het zorgde duidelijk voor wat meer comfort en bewegingsvrijheid tijdens het spelverloop. Iets waar rekening mee gehouden moet worden, is het aflezen van informatie. Opvallend is wanneer het was enkel met de controller in hun handen, lazen ze de informatie verticaal, en wanneer dit met de controller en band was, lazen ze de informatie horizontaal. Voor de band waren er wel wat zaken die nog beter konden, bijvoorbeeld de stof die strakker moet zitten. Ook zou de band instelbaar moeten zijn zodat die rond de mouw van een jas kan geplaatst worden, wanneer je bijvoorbeeld in de winter speelt. Om zeker te zijn van onze keuze, werden alle resultaten tegevenover elkaar gezet in een matrix. Alle resultaten zijn te vinden in het report (bijlage 5.2).
+
 <table border="1">
     <tr>
         <td>Gebruikerstest</td>
@@ -314,6 +315,7 @@ Bij het ontwerpen werd er rekening gehouden met de "gulfs of execution" en "gulf
 Via de hiërarchische taakanalyse worden de verschillende interactie keuzes in kaart gebracht. De taakanalyse kan je vinden op miro (bijlage 1)
 
 De gebruikerstesten worden uitgevoerd met 4 respondenten tussen 10-16 jaar (protocol: bijlage 7.1) . Per test spelen 2 respondenten het jachtspel, hierbij is de ene respondent de jager en de andere de vluchter. De respondenten doen dus role playing, en overlopen hun volledige user journey. Hierbij observeren we hun interacties met de verschillende versies, en achteraf wordt er feedback verzamelt. Als laatste wordt er een reflectie uitgevoerd met enkele open vragen. 
+
 <table border="1">
     <tr>
         <td>Gebruikerstest</td>
@@ -322,7 +324,6 @@ De gebruikerstesten worden uitgevoerd met 4 respondenten tussen 10-16 jaar (prot
     <tr>
         <td><img src="afbeeldingen deelopdracht 5/gebruikerstest 1.jpg" width="100%"/></td>
         <td><img src="afbeeldingen deelopdracht 5/gebruikerstest 2.jpg" width="100%"/></td> 
-        
     </tr>
 </table>
 
