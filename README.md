@@ -336,7 +336,7 @@ Design requirements:
 ### Design Requirements
 
 ### Finaal Prototype
-Door na alle deelopdrachten design requirements op te stellen kon een finaal prototype gemaakt worden. Hieruit kunnen we afleiden of het finaal prototype nu voldoet aan de wensen van de gebruikers. De band werd gemaakt uit ............... De omhuizing van de controller werd gemaakt uit PLA met de 3D printer. Aan de binnenkant werd een arduino geplaatst waaraan knoppen, leds en schermen verbonden zitten. Door dat niet alle elektronica in de controller kon werd deze dus iets dikker gemaakt. Door een arduino te gebruiken konden we het spel simuleren zoals het in het echt zou zijn. De arduino code is te vinden in de bijlage 8. 
+Na het opstellen van de design requirements, volgend op de afronding van alle deelopdrachten, kon een definitief prototype worden gerealiseerd. Hieruit kunnen we evalueren of het eindproduct voldoet aan de verwachtingen van de gebruikers. De band is vervaardigd van het materiaal van een tafelkleed, verstevigd met elastieken en klittenband. De behuizing van de controller is vervaardigd uit PLA, gevormd met een 3D-printer. Binnenin de behuizing is een Arduino geïnstalleerd, waaraan knoppen, leds en schermen zijn aangesloten. Vanwege beperkte ruimte voor alle elektronica is de controller iets dikker gemaakt. Met behulp van de Arduino konden we het spel simuleren zoals het in werkelijkheid zou zijn. Het uiterlijk van de knoppen, radar en rollen werd gerepliceerd met papier. De Arduino-code is beschikbaar in bijlage 8. 
 <table border="1">
     <tr>
         <td>band buitenkant</td>
@@ -357,11 +357,11 @@ Door na alle deelopdrachten design requirements op te stellen kon een finaal pro
 </table>
 
 ### Kritische reflectie
-Bij de opdracht met de fysieke ergonomie kwam een kleine controller naar voor als favoriet. Dit zorgt voor problemen om alle onderdelen van elektronica in de controller te steken. De componenten die nu in ons finaal prototype zitten zijn dan ook niet alle onderdelen. Zo zou er nog een component moeten voorzien worden om de controllers te verbinden, een buzzer om een geluidstoon te maken en een plek in die controller voorzien zijn voor de batterij.
+Bij de evaluatie van de fysieke ergonomie voor de opdracht, kwam een kleine controller naar voren als favoriet. Dit brengt echter uitdagingen met zich mee bij het integreren van alle elektronische onderdelen in de controller. De huidige samenstelling van onze definitieve prototype omvat niet alle benodigde componenten. Er moet nog een component worden toegevoegd voor het verbinden van de controllers, een buzzer voor geluidssignalen, en ruimte voor een batterij in de controller moet worden voorzien.
 
-Hoe de controllers verbonden worden met elkaar is ook een probleem. Bluetooth werkt zeer goed om controllers te verbinden , maar dit werkt maar tot tien meter. Wifi zou een mogelijkheid zijn, maar aangezien het spel meestal in een bos zal gespeeld worden is er niet zeker of er daar wifi-verbinding zal zijn. Een mogelijke oplossing zou zijn via radiofrequentie aangezien die een groot bereik hebben. Een nadeel van radiofrequentie is interferentie met andere draadloze apparaten, maar dit zou geen problemen mogen geven in een bos.
+Het vinden van een geschikte methode om de controllers met elkaar te verbinden vormt ook een uitdaging. Hoewel Bluetooth efficiënt is voor het verbinden van controllers, heeft het een beperkt bereik van slechts tien meter. Wifi is een alternatief, maar in de bosrijke omgeving waar het spel meestal wordt gespeeld, is de beschikbaarheid van een wifi-verbinding onzeker. Een potentieel alternatief is het gebruik van radiofrequentie, vanwege het grotere bereik. Het nadeel hiervan is echter mogelijke interferentie met andere draadloze apparaten, maar dit zou in een bosrijke omgeving doorgaans geen problemen moeten veroorzaken.
 
-Iets waar we niet op ingezet hebben in ons project is veiligheid. Het spel wordt gespeeld in een bos, maar in principe kun je zover weglopen als je maar wil. Daarom zou er een maximum gebied moeten zijn waar de kinderen niet buiten mogen gaan. De controller zou bijvoorbeeld een signaal kunnen geven als ze zich te ver verwijderen van het startpunt.
+Veiligheid is een aspect waar we tot nu toe niet specifiek op hebben ingezet in ons project. Aangezien het spel in een bos wordt gespeeld, bestaat de mogelijkheid dat de spelers zich ver van het startpunt verwijderen. Om dit te voorkomen, zou er een maximumgebied moeten worden vastgesteld waarbinnen de kinderen moeten blijven. De controller zou bijvoorbeeld een signaal kunnen afgeven wanneer ze zich te ver van het startpunt verwijderen.
 
 ## Bronnen
 1. De Morgen. (2018, 18 november). Meer dan 90 procent van Vlaamse kinderen beweegt te weinig: de situatie is problematisch [Artikel]
@@ -416,6 +416,6 @@ Iets waar we niet op ingezet hebben in ons project is veiligheid. Het spel wordt
          7.3.3 Versie 2 (jager):  https://cloud.protopie.io/p/6181742c752c49676d6f63c7?handoff=true
      
          7.3.4 Versie 2 (vluchter): https://cloud.protopie.io/p/f5393db5d930e97091114264?handoff=true
-  8. finaal prototype
+  8. Finaal prototype
 
      8.1 arduino code: https://github.com/JarneVermeulen/arduino-controller/tree/main
