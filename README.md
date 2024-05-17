@@ -24,7 +24,7 @@ De voorwaarden omvatten dus inclusiviteit en budgettair haalbaar, zodat ons proj
 ## Methdologie
 <table border="1">
     <tr>
-        <td>methodologie</td>
+        <td>Methodologie</td>
     </tr>
     <tr>
         <td><img src="finaal prototype/methodologie.png" width="100%"/></td>
@@ -113,7 +113,7 @@ Controller 3 (rechts op de onderstaande figuur) was opvallend de favoriet van al
 Er werden ook nog enkele tips meegegeven door de jongeren om tot een beter concept/design te komen. De aan/uit-knop niet laten uitsteken, zodat wanneer je tegen ergens stoot die niet per ongeluk wordt uitgelegd. Het product zouden ze kopen, maar dit is natuurlijk afhankelijk van de prijs. En het eventueel overwegen om er een app aan te koppelen, voor gebruikersgemak en informatievoorziening. 
 <table border="1">
     <tr>
-        <td  colspan="2">prototypes wave 2</td>
+        <td  colspan="2">Prototypes wave 2</td>
 </tr>
     <tr>
         <td><img src="afbeeldingen verslag/prototypes wave 2 onderkant.png" width="90%"/></td>                                             
@@ -126,7 +126,7 @@ Het concept werd over het algemeen goed ontvangen, vooral als activiteit met vri
 Hieruit kon ook beslist worden dat de afmetingen en vorm van A als favoriet naar voren kwamen, maar met als toevoeging afgeronde hoeken en een diepe inkeping voor de vinger. De uiteindelijke afmetingen van de controller zijn te vinden op volgende figuur
 <table border="1">
     <tr>
-        <td>afmetingen controller</td>
+        <td>Afmetingen controller</td>
 </tr>
     <tr>
         <td><img src="afbeeldingen verslag/afmetingen controller.png" width="100%"/></td>                                             
@@ -167,10 +167,10 @@ Aan de hand van de bekomen data creëerden we verschillende prototypes. De contr
 
 <table border="1">
  <tr>
-        <td>afmetingen controller</td>
-        <td>handlengte</td>
-        <td>handbreedte</td>
-        <td>vingerlengte</td>
+        <td>Afmetingen controller</td>
+        <td>Handlengte</td>
+        <td>Handbreedte</td>
+        <td>Vingerlengte</td>
     </tr>
     <tr>
         <td><img src="afbeeldingen deelopdracht 3/b+h controller.png" width="100%"/></td>
@@ -182,10 +182,10 @@ Aan de hand van de bekomen data creëerden we verschillende prototypes. De contr
 Om het uiterlijk van de band te bepalen, hebben we eerst aan benchmarking gedaan (zie Miro)  Voor stevigheid komt de band vast te zitten tot aan de vingers, zodat deze niet kan roteren rond de arm (zie voorbeeld hieronder). De band hebben we gemaakt uit een nylon kous, en met als afmeting de elleboog-hand lengte. Voor de elleboog-hand lengte hebben we het 95ste percentiel gebruikt zodat dit ook voor volwassenen zou kunnen gebruikt worden. Zo kwamen we aan een lengte van 24 cm. De omtrek van de band zal instelbaar zijn, dus deze moest niet bepaald worden. De verbinding tussen de band en de controller gebeurt aan de hand van velcro.
 <table border="1">
     <tr>
-        <td>band benchmarking</td>
-        <td>controllers</td>
-        <td>band</td>
-        <td>achterkant controller met velcro</td>
+        <td>Benchmarking van de band</td>
+        <td>Controllers</td>
+        <td>Band</td>
+        <td>Achterkant controller</td>
     </tr>
     <tr>
         <td><img src="afbeeldingen deelopdracht 3/benchmarking band.png" width="100%"/></td>
@@ -203,8 +203,8 @@ De testen draaiden vooral rond de spelervaring en ergonomie. Eerst wordt er een 
 Na de testen bleek dat de controller met de afmetingen van de gemiddelde waarde niet de favoriet was, maar de controller met éénmaal de standaardafwijking kleiner dan die waarde. Ook de volwassene, die buiten de doelgroep zat, koos voor deze afmetingen. Er blijken dus geen grote verschillen te zitten tussen de verschillende leeftijden. Bij het vrouwelijk geslacht was duidelijk controller 3 de favoriet. Bij het mannelijk geslacht waren controller 1 en 3 de favorieten. Na de testen viel op wat voor invloed de band had, het zorgde duidelijk voor wat meer comfort en bewegingsvrijheid tijdens het spelverloop. Iets waar rekening mee gehouden moet worden, is het aflezen van informatie. Opvallend is wanneer het was enkel met de controller in hun handen, lazen ze de informatie verticaal, en wanneer dit met de controller en band was, lazen ze de informatie horizontaal. Voor de band waren er wel wat zaken die nog beter konden, bijvoorbeeld de stof die strakker moet zitten. Ook zou de band instelbaar moeten zijn zodat die rond de mouw van een jas kan geplaatst worden, wanneer je bijvoorbeeld in de winter speelt. Om zeker te zijn van onze keuze, werden alle resultaten tegevenover elkaar gezet in een matrix. Alle resultaten zijn te vinden in het report (bijlage 5.2).
 <table border="1">
     <tr>
-        <td>gebruikerstest</td>
-        <td>arm volwassenen</td>
+        <td>Gebruikerstest</td>
+        <td>Test volwassene</td>
     </tr>
     <tr>
         <td><img src="afbeeldingen deelopdracht 3/gebruikerstest.png" width="100%"/></td>
@@ -266,7 +266,7 @@ Eerst wordt er een kwalificatie uitgevoerd om de algemene gegevens van de gebrui
 
 <table border="1">
     <tr>
-        <td>gebruikerstest</td>
+        <td>Gebruikerstest</td>
 </tr>
     <tr>
         <td><img src="afbeeldingen deelopdracht 4/gebruikerstest.jpg" width="30%"/></td>                                             
@@ -302,7 +302,7 @@ Deze opdracht beschrijft duidelijk enkele usabilty-goals. Zoals efficiëntie, wa
 Het eerste deel van de opdracht, de hiërarchische taakanalyse, wordt uitgevoerd in een Miro template. Vervolgens werden een Protopie templates (bijlage 7.3) gemaakt met het uiterlijk dat bekomen werd uit deelopdracht 4. De templates bevat de verschillende interacties die noodzakelijk zijn voor een spelverloop. Aangezien er soms meerdere interactie mogelijkheden zijn voor een bepaalde functie, werden er 2 versies gemaakt. Ook telkens een versie voor de jager en 1 voor de vluchter.
 <table border="1">
     <tr>
-        <td>controller layout</td>
+        <td>Layout van de controller</td>
 </tr>
     <tr>
         <td><img src="afbeeldingen deelopdracht 5/controller.png" width="30%"/></td>                                             
@@ -338,12 +338,12 @@ Design requirements:
 Na het opstellen van de design requirements, volgend op de afronding van alle deelopdrachten, kon een definitief prototype worden gerealiseerd. Hieruit kunnen we evalueren of het eindproduct voldoet aan de verwachtingen van de gebruikers. De band is vervaardigd van het materiaal van een tafelkleed, verstevigd met elastieken en klittenband. De behuizing van de controller is vervaardigd uit PLA, gevormd met een 3D-printer. Binnenin de behuizing is een Arduino geïnstalleerd, waaraan knoppen, leds en schermen zijn aangesloten. Vanwege beperkte ruimte voor alle elektronica is de controller iets dikker gemaakt. Met behulp van de Arduino konden we het spel simuleren zoals het in werkelijkheid zou zijn. Het uiterlijk van de knoppen, radar en rollen werd gerepliceerd met papier. De Arduino-code is beschikbaar in bijlage 8. 
 <table border="1">
     <tr>
-        <td>band buitenkant</td>
-        <td>band binnenkant</td>
-        <td>band rond arm</td>
-        <td>bovenkant controller</td>
-        <td>onderkant controller</td>
-        <td>band + controller</td>
+        <td>Band buitenkant</td>
+        <td>Band binnenkant</td>
+        <td>Band rond de arm</td>
+        <td>Bovenkant controller</td>
+        <td>Onderkant controller</td>
+        <td>Band + controller</td>
     </tr>
     <tr>
         <td><img src="finaal prototype/band buitenkant.jpg" width="100%"/></td>
@@ -364,7 +364,7 @@ Het vinden van een geschikte methode om de controllers met elkaar te verbinden v
 
 Veiligheid is een aspect waar we tot nu toe niet specifiek op hebben ingezet in ons project. Aangezien het spel in een bos wordt gespeeld, bestaat de mogelijkheid dat de spelers zich ver van het startpunt verwijderen. Om dit te voorkomen, zou er een maximumgebied moeten worden vastgesteld waarbinnen de kinderen moeten blijven. De controller zou bijvoorbeeld een signaal kunnen afgeven wanneer ze zich te ver van het startpunt verwijderen.
 
-Ook zou het betrekken van een grotere en meer gevarieerde steekproef van gebruikers in het testproces een bijgedrage leveren aan een meer uitgebalanceerd en representatief begrip van de behoeften en voorkeuren van de doelgroep. Hierdoor kunnen ontwerpbeslissingen worden geïnformeerd door directe feedback van potentiële gebruikers, wat de uiteindelijke bruikbaarheid en acceptatie van het product kan verbeteren.
+Ook het betrekken van een grotere en meer gevarieerde steekproef van gebruikers in het testproces zou een waardevolle bijdrage kunnen leveren aan een meer uitgebalanceerd en representatief begrip van de behoeften en voorkeuren van de doelgroep. De gelijk verdeelde feedback suggereert dat de meningen misschien niet volledig zijn vertegenwoordigd door de huidige steekproef. Door een breder scala aan gebruikers te betrekken, kunnen ontwerpbeslissingen worden geïnformeerd door een meer diverse reeks perspectieven en ervaringen. Dit zou kunnen resulteren in een product dat beter aansluit bij de uiteenlopende behoeften en voorkeuren van verschillende gebruikers, waardoor de bruikbaarheid en acceptatie ervan kunnen worden verbeterd.
 
 Het idee viel zeker in de smaak, maar om het concept duurzaam en aantrekkelijk te houden op de lange termijn, lijkt het noodzakelijk om het idee verder uit te breiden en te diversifiëren. Hoewel de initiële reacties van de jongeren positief waren, bestaat het risico dat de interesse in het spel na verloop van tijd afneemt als er geen nieuwe elementen of uitdagingen worden toegevoegd. Het bieden van meerdere variaties van het spel of het ontwikkelen van aanvullende functionaliteiten, zoals het koppelen van een app voor competitieve doeleinden onder vrienden, kan helpen om de betrokkenheid en opwinding rondom het concept te behouden. Dit zou niet alleen de speelervaring verrijken, maar ook de levensduur en relevantie van het product op de markt verlengen.
 
