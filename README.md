@@ -379,7 +379,7 @@ Na het opstellen van de design requirements, volgend op de afronding van alle de
         <td>render</td>
     </tr>
     <tr>
-        <td><img src="finaal prototype/render.jpg" width="100%"/></td>
+        <td><img src="finaal prototype/render.png" width="100%"/></td>
     </tr>
 </table>
 
