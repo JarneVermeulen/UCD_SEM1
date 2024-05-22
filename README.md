@@ -375,7 +375,7 @@ Na het opstellen van de design requirements, volgend op de afronding van alle de
     </tr>
 </table>
 
-!!RENDER!!
+!!!RENDER!!!
 
 ### Kritische reflectie
 Bij de evaluatie van de fysieke ergonomie voor de opdracht, kwam een kleine controller naar voren als favoriet. Dit brengt echter uitdagingen met zich mee bij het integreren van alle elektronische onderdelen in de controller. De huidige samenstelling van onze definitieve prototype omvat niet alle benodigde componenten. Er moet nog een component worden toegevoegd voor het verbinden van de controllers, een buzzer voor geluidssignalen, en ruimte voor een batterij in de controller moet worden voorzien.
@@ -444,5 +444,4 @@ Het idee viel zeker in de smaak, maar om het concept duurzaam en aantrekkelijk t
   8. Finaal prototype
 
      8.1 arduino code: https://github.com/JarneVermeulen/arduino-controller/tree/main
- 9. Design Requirements
-     9.1 https://docs.google.com/document/d/1rPnZqZSxczzZhKSvthktq_ZvYLnU_Buz91rc5TCXNb4/edit?usp=sharing 
+ 9. Design Requirements:  https://docs.google.com/document/d/1rPnZqZSxczzZhKSvthktq_ZvYLnU_Buz91rc5TCXNb4/edit?usp=sharing 
