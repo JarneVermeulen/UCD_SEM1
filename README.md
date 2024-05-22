@@ -374,8 +374,15 @@ Na het opstellen van de design requirements, volgend op de afronding van alle de
         <td><img src="finaal prototype/assemblage.jpg" width="100%"/></td>
     </tr>
 </table>
+<table border="1">
+    <tr>
+        <td>render</td>
+    </tr>
+    <tr>
+        <td><img src="finaal prototype/render.jpg" width="100%"/></td>
+    </tr>
+</table>
 
-!!!RENDER!!!
 
 ### Kritische reflectie
 Bij de evaluatie van de fysieke ergonomie voor de opdracht, kwam een kleine controller naar voren als favoriet. Dit brengt echter uitdagingen met zich mee bij het integreren van alle elektronische onderdelen in de controller. De huidige samenstelling van onze definitieve prototype omvat niet alle benodigde componenten. Er moet nog een component worden toegevoegd voor het verbinden van de controllers, een buzzer voor geluidssignalen, en ruimte voor een batterij in de controller moet worden voorzien.
