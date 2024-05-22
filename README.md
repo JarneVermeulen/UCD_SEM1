@@ -179,7 +179,7 @@ Aan de hand van de bekomen data creëerden we verschillende prototypes. De contr
         <td><img src="afbeeldingen deelopdracht 3/afmeting vinger.png" width="100%"/></td>
     </tr>
 </table>
-Om het uiterlijk van de band te bepalen, hebben we eerst aan benchmarking gedaan (zie Miro)  Voor stevigheid komt de band vast te zitten tot aan de vingers, zodat deze niet kan roteren rond de arm (zie voorbeeld hieronder). De band hebben we gemaakt uit een nylon kous, en met als afmeting de elleboog-hand lengte. Voor de elleboog-hand lengte hebben we het 95ste percentiel gebruikt zodat dit ook voor volwassenen zou kunnen gebruikt worden. Zo kwamen we aan een lengte van 24 cm. De omtrek van de band zal instelbaar zijn, dus deze moest niet bepaald worden. De verbinding tussen de band en de controller gebeurt aan de hand van velcro.
+Om het uiterlijk van de band te bepalen, hebben we eerst aan benchmarking gedaan (zie Miro).  Voor stevigheid komt de band vast te zitten tot aan de vingers, zodat deze niet kan roteren rond de arm (zie voorbeeld hieronder). De band hebben we gemaakt uit een nylon kous, en met als afmeting de elleboog-hand lengte. Voor de elleboog-hand lengte hebben we het 95ste percentiel gebruikt zodat dit ook voor volwassenen zou kunnen gebruikt worden. Zo kwamen we aan een lengte van 24 cm. De omtrek van de band zal instelbaar zijn, dus deze moest niet bepaald worden. De verbinding tussen de band en de controller gebeurt aan de hand van velcro.
 <table border="1">
     <tr>
         <td>Benchmarking van de band</td>
@@ -297,7 +297,7 @@ Het doel van de opdracht is het verfijnen van het interactie-ontwerp en optimali
 - Welke versie wordt door de speler als de meest effectieve of meest plezierige ervaren?
 - Zijn er aspecten van het spel die verbeterd kunnen worden?
 
-Deze opdracht beschrijft duidelijk enkele usabilty-goals. Zoals efficiëntie, want er wordt duidelijk gewezen naar het streven van het optimaliseren van de user journey en het verfijnen van het interactie-ontwerp. Ook effectiviteit is een belangrijk doel, want de testen richten zich op het begrijpen van hoe spelers reageren op de verschillende interactiekeuzes. Voor het spel wordt er gestreeft naar de meest plezierige versie, dus tevredenheid is een doel dat zeker in het oog moet gehouden worden. Onze doelgroep is jongeren, dus makkelijk te herinneren, te leren en een veilig ontwerp zijn allemaal belangrijke doelen. 
+Deze opdracht beschrijft duidelijk enkele usabilty-goals. Zoals efficiëntie, want er wordt duidelijk gewezen naar het streven van het optimaliseren van de user journey en het verfijnen van het interactie-ontwerp. Ook effectiviteit is een belangrijk doel, want de testen richten zich op het begrijpen van hoe spelers reageren op de verschillende interactiekeuzes. Voor het spel wordt er gestreeft naar de meest plezierige versie, dus tevredenheid is een doel dat zeker in het oog moet gehouden worden. Onze doelgroep is jongeren, dus  eenvoudig te herinneren, makkelijk te leren en een veilig ontwerp zijn allemaal belangrijke doelen. 
 
 ### Materiaal
 Het eerste deel van de opdracht, de hiërarchische taakanalyse, wordt uitgevoerd in een Miro template. Vervolgens werden een Protopie templates (bijlage 7.3) gemaakt met het uiterlijk dat bekomen werd uit deelopdracht 4. De templates bevat de verschillende interacties die noodzakelijk zijn voor een spelverloop. Aangezien er soms meerdere interactie mogelijkheden zijn voor een bepaalde functie, werden er 2 versies gemaakt. Ook telkens een versie voor de jager en 1 voor de vluchter.
@@ -345,7 +345,15 @@ Design requirements:
 
 ## Algemene conclusie
 ### Design Requirements
-
+Na het voltooien van alle deelopdrachten konden alle ontwerpvereisten worden opgesteld. Hiervoor werden enkele ID's geselecteerd, die vervolgens werden onderverdeeld in algemene en jeugdgerichte vereisten. Alle specificaties zijn te vinden in bijlage 9.
+- Het product is speelbaar en toegankelijk
+- Het product is phygital
+- Het product is veilig
+- Het product bevordert fysieke activiteit
+- Het product is interactief
+- Het product is ergonomisch
+- Het product is esthetisch
+  
 ### Finaal Prototype
 Na het opstellen van de design requirements, volgend op de afronding van alle deelopdrachten, kon een definitief prototype worden gerealiseerd. Hieruit kunnen we evalueren of het eindproduct voldoet aan de verwachtingen van de gebruikers. De band is vervaardigd van het materiaal van een tafelkleed, verstevigd met elastieken en klittenband. De behuizing van de controller is vervaardigd uit PLA, gevormd met een 3D-printer. Binnenin de behuizing is een Arduino geïnstalleerd, waaraan knoppen, leds en schermen zijn aangesloten. Vanwege beperkte ruimte voor alle elektronica is de controller iets dikker gemaakt. Met behulp van de Arduino konden we het spel simuleren zoals het in werkelijkheid zou zijn. Het uiterlijk van de knoppen, radar en rollen werd gerepliceerd met papier. De Arduino-code is beschikbaar in bijlage 8. 
 <table border="1">
@@ -436,3 +444,5 @@ Het idee viel zeker in de smaak, maar om het concept duurzaam en aantrekkelijk t
   8. Finaal prototype
 
      8.1 arduino code: https://github.com/JarneVermeulen/arduino-controller/tree/main
+ 9. Design Requirements
+     9.1 https://docs.google.com/document/d/1rPnZqZSxczzZhKSvthktq_ZvYLnU_Buz91rc5TCXNb4/edit?usp=sharing 
