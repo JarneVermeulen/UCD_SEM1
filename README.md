@@ -421,7 +421,7 @@ Het idee viel zeker in de smaak, maar om het concept duurzaam en aantrekkelijk t
      5.2 Report: https://docs.google.com/document/d/1r_shWgywcSDu3Vw36urfKN32AsDJcoCDtGzQOMJXIDQ/edit?usp=drive_link
   6. Deelopdracht 4
      
-     6.1 Protocol: https://docs.google.com/document/d/1eZsqh_mGsqVSkwLgFUDISyCOR7UGc5VSt8z2rjgIzVg/edit?usp=drive_link
+     6.1 Protocol: https://docs.google.com/document/d/1F-BpUzMJ1ygE86KyeoABrs3NoPaWYa9jnDOSjFd4CtQ/edit?usp=drive_link
      
      6.2 Report: https://docs.google.com/document/d/1eZsqh_mGsqVSkwLgFUDISyCOR7UGc5VSt8z2rjgIzVg/edit?usp=sharing
      
